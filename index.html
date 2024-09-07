@@ -4,21 +4,120 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Football Player Doodle</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your external CSS file -->
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Poor Richard', serif; /* Default font set to Poor Richard */
+        }
+
+        #home {
+            height: 100vh; /* Full viewport height */
+            background-image: url('C:/Users/anion/OneDrive/Desktop/BCA/images/play-high-resolution-logo.png'); /* Local image path */
+            background-size: cover; /* Cover the entire section */
+            background-position: center; /* Center the image */
+            position: relative;
+            color: white;
+            text-align: center;
+            display: flex;
+            flex-direction: column; /* Stack elements vertically */
+            justify-content: center; /* Center content vertically */
+            align-items: center; /* Center content horizontally */
+            padding: 20px; /* Add padding for spacing */
+            animation: cloudburst 10s infinite; /* Add cloudburst animation */
+        }
+
+        @keyframes cloudburst {
+            0% {
+                background-image: url('C:/Users/anion/OneDrive/Desktop/BCA/images/play-high-resolution-logo.png'); /* Starting image */
+                filter: brightness(1);
+            }
+            50% {
+                filter: brightness(1.2); /* Brightening effect */
+            }
+            100% {
+                filter: brightness(1); /* Return to original brightness */
+            }
+        }
+
+        #home h1 {
+            font-size: 3em; /* Large font size for the heading */
+            margin: 0.5em 0; /* Margin for spacing */
+            position: relative;
+            top: 20px; /* Adjust this value to position below the logo */
+            font-family: Arial, sans-serif; /* Keep font for heading as Arial */
+        }
+
+        #home p {
+            font-size: 1.5em; /* Medium font size for the paragraph */
+            margin-bottom: 1em;
+            position: relative;
+            top: 40px; /* Adjust this value to position below the logo */
+        }
+
+        #home nav ul {
+            list-style: none; /* Remove list styling */
+            padding: 0;
+            margin-top: 40px; /* Increase the margin to add space above the list */
+        }
+
+        #home nav ul li {
+            display: inline; /* Display menu items in a single line */
+            margin: 0 1em; /* Spacing between menu items */
+        }
+
+        #home nav ul li a {
+            color: white; /* Text color for links */
+            text-decoration: none; /* Remove underline from links */
+            font-size: 1.2em; /* Font size for links */
+            border: 2px solid white; /* Border for links */
+            padding: 10px 20px; /* Padding for buttons */
+            border-radius: 25px; /* Rounded corners */
+            transition: background 0.3s, color 0.3s; /* Smooth transition for hover effects */
+        }
+
+        /* Rockwell font applied to FOOTBALL option */
+        .football a {
+            font-family: 'Rockwell', serif; /* Set font to Rockwell */
+        }
+
+        #home nav ul li a:hover {
+            background-color: white; /* Background color on hover */
+            color: black; /* Text color on hover */
+        }
+
+        footer {
+            text-align: center; /* Center text in footer */
+            color: white; /* Text color for footer */
+            position: absolute; /* Position footer at the bottom */
+            bottom: 10px; /* Distance from the bottom */
+            width: 100%; /* Full width */
+            font-size: 1em; /* Font size for footer */
+        }
+    </style>
 </head>
 <body>
-    <section id="home">
-        <h1>Welcome User!</h1>
-        <p>Click on the option below to explore the world of football!</p>
-        <nav>
-            <ul>
-                <li><a href="#home">FOOTBALL</a></li>
-            </ul>
-        </nav>
-    </section>
 
-    <footer>
-        <p>&copy; PLAY</p>
-    </footer>
+<div id="home">
+    <h1>PLAY 2024</h1> <!-- Main heading with Arial font -->
+    <p>Click on the option below:</p> <!-- Subheading or instruction -->
+
+    <nav>
+        <ul>
+            <li class="football"><a href="#">FOOTBALL</a></li> <!-- FOOTBALL option with Rockwell font -->
+            <li><a href="#">BASKETBALL</a></li>
+            <li><a href="#">TENNIS</a></li>
+            <li><a href="#">CRICKET</a></li>
+            <li><a href="#">VOLLEYBALL</a></li>
+        </ul>
+    </nav>
+</div>
+
+<footer>
+    <p>&copy; 2023 Your Company Name. All Rights Reserved.</p> <!-- Footer content -->
+</footer>
+
 </body>
 </html>
