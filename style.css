@@ -1,57 +1,86 @@
-/* Resetting margins and paddings for all elements */
-* {
+body, html {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-/* Ensure that html and body take up the full viewport height */
-html, body {
     height: 100%;
+    font-family: Arial, sans-serif; /* Default font for the body */
 }
 
-/* Full-Screen Background Image for Home Section */
 #home {
-    background: url('images/play-high-resolution-logo.png') no-repeat center center fixed;
-    background-size: cover; /* Ensures the background image covers the entire screen */
     height: 100vh; /* Full viewport height */
+    background-image: url('C:/Users/anion/OneDrive/Desktop/BCA/images/play-high-resolution-logo.png'); /* Local image path */
+    background-size: cover; /* Cover the entire section */
+    background-position: center; /* Center the image */
+    position: relative;
+    color: white;
+    text-align: center;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    padding: 40px; /* Increased padding for spacing */
 }
 
-/* Transparent Background for Navigation Text */
-nav ul {
-    list-style: none;
+#home h1 {
+    font-size: 3em; /* Large font size for the heading */
+    margin: 20px 0; /* Increased margin for spacing */
+}
+
+#home p {
+    font-size: 1.5em; /* Medium font size for the paragraph */
+    margin: 20px 0; /* Increased margin for spacing */
+}
+
+#home nav ul {
+    list-style: none; /* Remove list styling */
     padding: 0;
+    margin-top: 20px; /* Increase margin to reduce space above the list */
 }
 
-nav ul li {
-    display: inline;
-    margin: 0 10px;
+#home nav ul li {
+    display: inline; /* Display menu items in a single line */
+    margin: 0 1em; /* Spacing between menu items */
 }
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for text */
-    padding: 10px 20px;
-    border-radius: 5px;
+#home nav ul li a {
+    color: white; /* Text color for links */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 1.2em; /* Font size for links */
+    border: 2px solid white; /* Border for links */
+    padding: 10px 20px; /* Padding for buttons */
+    border-radius: 25px; /* Rounded corners */
+    transition: background 0.3s, color 0.3s; /* Smooth transition for hover effects */
 }
 
-nav ul li a:hover {
-    background-color: rgba(255, 255, 255, 0.3); /* Change background on hover */
+/* Specific styling for FOOTBALL option */
+#home nav ul li.football a {
+    font-family: 'Clarendon', serif; /* Change font family to Clarendon */
 }
 
-/* Footer Styling */
+#home nav ul li a:hover {
+    background-color: white; /* Background color on hover */
+    color: black; /* Text color on hover */
+}
+
 footer {
-    position: absolute;
-    bottom: 10px;
-    width: 100%;
-    text-align: center;
-    color: white;
+    text-align: center; /* Center text in footer */
+    color: white; /* Text color for footer */
+    position: absolute; /* Position footer at the bottom */
+    bottom: 10px; /* Distance from the bottom */
+    width: 100%; /* Full width */
+    font-size: 1em; /* Font size for footer */
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    #home h1 {
+        font-size: 2.5em; /* Smaller font size for smaller screens */
+    }
+
+    #home p {
+        font-size: 1.2em; /* Smaller font size for paragraph */
+    }
+
+    #home nav ul li a {
+        font-size: 1em; /* Smaller font size for links */
+    }
 }
