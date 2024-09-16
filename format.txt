@@ -1,0 +1,55 @@
+This file is for illustration purpose only!!! Use this format to highlight the data in your local machines.
+
+name
+age
+nationality
+height
+dob
+position
+foot
+market value
+club
+date of joining
+league and international record
+	goals
+	yellow cards
+	red cards
+	appearences
+	assists
+	goals conceded(gk exclusive)
+	clean sheet(gk exclusive)
+achievements
+
+demo json script(MongoDB):
+
+	{
+  "club": "Arsenal FC",   //putting all players playing for Arsenal FC under one single place.
+  "players": [
+    {
+      "name": "David Raya Martín",
+      "age": 29,
+      "nationality": "Spaniard",
+      "height": "1.83m",
+      "dob": "1995-09-15",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹280 Cr",
+      "joined": "Jul 4, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 41,
+        "assists": 0,
+        "goals_conceded": 31,
+        "clean_sheets": 20
+      },
+      "achievements": [
+        "1x European Champion 2024 (Spain)",
+        "1x UEFA Nations League"
+      ]
+    } //put a comma and continue from here.
+  ]
+}
+(for season 2023-24 only!!)
+	
