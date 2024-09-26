@@ -1,0 +1,5403 @@
+[{
+  "_id": {
+    "$oid": "66e9e6c4aee8d267ab04d439"
+  },
+  "club": "Arsenal FC",
+  "league": "English Premier League",
+  "players": [
+    {
+      "name_home": "David Raya Martín",
+      "name_jer": "David Raya",
+      "age": 29,
+      "nationality": "Spain",
+      "height": "1.83m",
+      "dob": "1995-09-15",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹280 Cr",
+      "joined": "Jul 4, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 41,
+        "assists": 0,
+        "goals_conceded": 31,
+        "clean_sheets": 20
+      },
+      "achievements": [
+        "1x European Champion 2024 (Spain)",
+        "1x UEFA Nations League"
+      ]
+    },
+    {
+      "name_home": "Norberto Murara Neto",
+      "name_jer": "Neto",
+      "age": 35,
+      "nationality": "Italy",
+      "height": "1.90m",
+      "dob": "1989-07-19",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 32,
+        "assists": 0,
+        "goals_conceded": 55,
+        "clean_sheets": 7
+      },
+      "achievements": [
+        "2x Italian Champion (Juventus FC)",
+        "2x Italian Cup Winner (Juventus FC)",
+        "2x Spanish Cup Winner (FC Barcelona, Valencia CF)",
+        "1x Italian Super Cup Winner"
+      ]
+    },
+    {
+      "name_home": "William Alain André Gabriel Saliba",
+      "name_jer": "William Saliba",
+      "age": 23,
+      "nationality": "France",
+      "height": "1.92m",
+      "dob": "2001-03-24",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹640 Cr",
+      "joined": "Jul 25, 2019",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 50,
+        "assists": 1
+      },
+      "achievements": [
+        "2x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Riccardo Calafiori",
+      "name_jer": "Riccardo Calafiori",
+      "age": 22,
+      "nationality": "Italy",
+      "height": "1.88m",
+      "dob": "2002-05-19",
+      "position": "Centre-Back, Left-Back",
+      "foot": "Left",
+      "market_value": "₹360 Cr",
+      "joined": "Jul 29, 2024",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 37,
+        "assists": 5
+      },
+      "achievements": [
+        "1x UEFA Conference League Winner (AS Roma)",
+        "1x Italian Supercoppa Winner U17 (Roma U17)",
+        "1x Italian Youth Champion U17 (Roma U17)"
+      ]
+    },
+    {
+      "name_home": "Jurriën David Norman Timber",
+      "name_jer": "Jurrien Timber",
+      "age": 23,
+      "nationality": "Netherlands",
+      "height": "1.79m",
+      "dob": "2001-06-17",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹304 Cr",
+      "joined": "Jul 14, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 4,
+        "assists": 0
+      },
+      "achievements": [
+        "1x Footballer Of The Year (Netherlands)",
+        "2x Dutch Champion (Ajax Amsterdam)",
+        "1x European Champion U17 (Netherlands)",
+        "1x Dutch Champion U17 (Netherlands)",
+        "1x English Super Cup Winner (Arsenal FC)",
+        "1x Dutch Cup Winner (Netherlands)",
+        "1x Dutch Champion U19 (Netherlands)"
+      ]
+    },
+    {
+      "name_home": "Jakub Piotr Kiwior",
+      "name_jer": "Jakub Kiwior",
+      "age": 24,
+      "nationality": "Poland",
+      "height": "1.89m",
+      "dob": "2001-06-17",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹240 Cr",
+      "joined": "Jan 23, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 30,
+        "assists": 3
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Зінченко Олександр Володимирович",
+      "name_jer": "Oleksandr Zinchenko",
+      "age": 27,
+      "nationality": "Ukraine",
+      "height": "1.75m",
+      "dob": "1996-12-15",
+      "position": "Left-Back, Left-Midfield, Central-Midfield",
+      "foot": "Left",
+      "market_value": "₹304 Cr",
+      "joined": "Jul 22, 2022",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 2
+      },
+      "achievements": [
+        "1x Footballer Of The Year (Ukraine)",
+        "4x English Champion (Manchester City FC)",
+        "2x English Super Cup Winner (Manchester City FC)",
+        "1x English FA Cup Winner (Manchester City FC)",
+        "4x English League Cup Winner (Manchester City FC)"
+      ]
+    },
+    {
+      "name_home": "Bukayo Ayoyinka T.M. Saka",
+      "name_jer": "Bukayo Saka",
+      "age": 22,
+      "nationality": "England",
+      "height": "1.78m",
+      "dob": "2001-09-05",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹900 Cr",
+      "joined": "Sep 5, 2020",
+      "league_record": {
+        "goals": 14,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 11
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)",
+        "1x PFA Young Player of the Year"
+      ]
+    },
+    {
+      "name_home": "Gabriel Teodoro Martinelli Silva",
+      "name_jer": "Gabriel Martinelli",
+      "age": 22,
+      "nationality": "Brazil",
+      "height": "1.78m",
+      "dob": "2001-06-18",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹760 Cr",
+      "joined": "Jul 2, 2019",
+      "league_record": {
+        "goals": 15,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 37,
+        "assists": 5
+      },
+      "achievements": [
+        "1x Olympic Gold Medalist (Brazil U23)"
+      ]
+    },
+    {
+      "name_home": "Gabriel dos Santos Magalhães",
+      "name_jer": "Gabriel",
+      "age": 26,
+      "nationality": "Brazil",
+      "height": "1.90m",
+      "dob": "1997-12-19",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹640 Cr",
+      "joined": "Sep 1, 2020",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 10,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 1
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Martin Ødegaard",
+      "name_jer": "Martin Ødegaard",
+      "age": 25,
+      "nationality": "Norway",
+      "height": "1.78m",
+      "dob": "1998-12-17",
+      "position": "Attacking Midfield",
+      "foot": "Left",
+      "market_value": "₹800 Cr",
+      "joined": "Jan 27, 2021",
+      "league_record": {
+        "goals": 15,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 8
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Declan Rice",
+      "name_jer": "Declan Rice",
+      "age": 25,
+      "nationality": "England",
+      "height": "1.85m",
+      "dob": "1999-01-14",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹840 Cr",
+      "joined": "Jul 15, 2023",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 3
+      },
+      "achievements": [
+        "1x UEFA Conference League Winner (West Ham United)",
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Kai Lukas Havertz",
+      "name_jer": "Kai Havertz",
+      "age": 25,
+      "nationality": "Germany",
+      "height": "1.89m",
+      "dob": "1999-06-11",
+      "position": "Attacking Midfield, Forward",
+      "foot": "Left",
+      "market_value": "₹520 Cr",
+      "joined": "Jun 28, 2023",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 5
+      },
+      "achievements": [
+        "1x UEFA Champions League Winner (Chelsea FC)",
+        "1x FIFA Club World Cup Winner (Chelsea FC)",
+        "1x UEFA Super Cup Winner (Chelsea FC)"
+      ]
+    },
+    {
+      "name_home": "Leandro Trossard",
+      "name_jer": "Leandro Trossard",
+      "age": 29,
+      "nationality": "Belgium",
+      "height": "1.72m",
+      "dob": "1994-12-04",
+      "position": "Left Winger, Forward",
+      "foot": "Right",
+      "market_value": "₹400 Cr",
+      "joined": "Jan 20, 2023",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 9
+      },
+      "achievements": [
+        "1x Belgian Champion (Genk)",
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Eddie Nketiah",
+      "name_jer": "Eddie Nketiah",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "1999-05-30",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹320 Cr",
+      "joined": "Jul 1, 2017",
+      "league_record": {
+        "goals": 10,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 2
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Fabio Daniel Ferreira Vieira",
+      "name_jer": "Fabio Vieira",
+      "age": 24,
+      "nationality": "Portugal",
+      "height": "1.70m",
+      "dob": "2000-05-30",
+      "position": "Attacking Midfield",
+      "foot": "Left",
+      "market_value": "₹240 Cr",
+      "joined": "Jun 21, 2022",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 28,
+        "assists": 7
+      },
+      "achievements": [
+        "1x Portuguese Champion (FC Porto)"
+      ]
+    },
+    {
+      "name_home": "Takehiro Tomiyasu",
+      "name_jer": "Takehiro Tomiyasu",
+      "age": 25,
+      "nationality": "Japan",
+      "height": "1.88m",
+      "dob": "1998-11-05",
+      "position": "Right-Back, Centre-Back",
+      "foot": "Right",
+      "market_value": "₹280 Cr",
+      "joined": "Aug 31, 2021",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 1
+      },
+      "achievements": [
+        "1x Asian Cup Runner-Up (Japan)"
+      ]
+    },
+    {
+      "name_home": "Reiss Luke Nelson",
+      "name_jer": "Reiss Nelson",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.75m",
+      "dob": "1999-12-10",
+      "position": "Right Winger",
+      "foot": "Right",
+      "market_value": "₹200 Cr",
+      "joined": "Jul 1, 2017",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 22,
+        "assists": 3
+      },
+      "achievements": [
+        "1x English FA Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Emile Smith Rowe",
+      "name_jer": "Emile Smith Rowe",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.82m",
+      "dob": "2000-07-28",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹320 Cr",
+      "joined": "Jul 1, 2018",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 2
+      },
+      "achievements": [
+        "1x English FA Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Ben Anthony White",
+      "name_jer": "Ben White",
+      "age": 26,
+      "nationality": "England",
+      "height": "1.86m",
+      "dob": "1997-10-08",
+      "position": "Right-Back, Centre-Back",
+      "foot": "Right",
+      "market_value": "₹480 Cr",
+      "joined": "Jul 30, 2021",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 37,
+        "assists": 3
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Gabriel Fernando de Jesus",
+      "name_jer": "Gabriel Jesus",
+      "age": 27,
+      "nationality": "Brazil",
+      "height": "1.75m",
+      "dob": "1997-04-03",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹640 Cr",
+      "joined": "Jul 4, 2022",
+      "league_record": {
+        "goals": 11,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 4
+      },
+      "achievements": [
+        "4x English Champion (Manchester City FC)",
+        "1x Copa América Winner (Brazil)",
+        "4x English League Cup Winner (Manchester City FC)"
+      ]
+    },
+    {
+      "name_home": "Mohamed Naser Elsayed Elneny",
+      "name_jer": "Mohamed Elneny",
+      "age": 32,
+      "nationality": "Egypt",
+      "height": "1.80m",
+      "dob": "1992-07-11",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jan 14, 2016",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 18,
+        "assists": 0
+      },
+      "achievements": [
+        "1x Swiss Champion (FC Basel)",
+        "2x English FA Cup Winner (Arsenal FC)"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e9e96f0e8ba3ac73d5c0be"
+  },
+  "club": "Aston Villa FC",
+  "league": "English Premier League",
+  "players": [
+    {
+      "name_home": "Emiliano Martínez",
+      "name_jer": "Emiliano Martínez",
+      "age": 31,
+      "nationality": "Argentina",
+      "height": "1.95m",
+      "dob": "1992-09-02",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹400 Cr",
+      "joined": "Sep 16, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 120,
+        "assists": 0,
+        "clean_sheets": 45,
+        "goals_conceded": 115
+      },
+      "achievements": [
+        "1x Copa América Winner (Argentina)",
+        "1x World Cup Winner (Argentina)",
+        "1x English FA Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Matty Cash",
+      "name_jer": "Matty Cash",
+      "age": 26,
+      "nationality": "Poland",
+      "height": "1.85m",
+      "dob": "1997-08-07",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹360 Cr",
+      "joined": "Sep 3, 2020",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 12,
+        "red_cards": 0,
+        "appearances": 98,
+        "assists": 9
+      },
+      "achievements": [
+        "1x UEFA Nations League Runner-Up (Poland)"
+      ]
+    },
+    {
+      "name_home": "Tyrone Mings",
+      "name_jer": "Tyrone Mings",
+      "age": 30,
+      "nationality": "England",
+      "height": "1.96m",
+      "dob": "1993-03-13",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹320 Cr",
+      "joined": "Jul 8, 2019",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 20,
+        "red_cards": 1,
+        "appearances": 112,
+        "assists": 6
+      },
+      "achievements": [
+        "1x UEFA Nations League Third Place (England)"
+      ]
+    },
+    {
+      "name_home": "Ezri Konsa Ngoyo",
+      "name_jer": "Ezri Konsa",
+      "age": 26,
+      "nationality": "England",
+      "height": "1.83m",
+      "dob": "1997-10-23",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹320 Cr",
+      "joined": "Jul 11, 2019",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 9,
+        "red_cards": 0,
+        "appearances": 108,
+        "assists": 2
+      },
+      "achievements": [
+        "1x UEFA Nations League Third Place (England U21)"
+      ]
+    },
+    {
+      "name_home": "Lucas Digne",
+      "name_jer": "Lucas Digne",
+      "age": 31,
+      "nationality": "France",
+      "height": "1.78m",
+      "dob": "1993-07-20",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹280 Cr",
+      "joined": "Jan 13, 2022",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 10,
+        "red_cards": 0,
+        "appearances": 85,
+        "assists": 18
+      },
+      "achievements": [
+        "1x French Champion (Paris Saint-Germain)",
+        "1x UEFA Nations League Winner (France)"
+      ]
+    },
+    {
+      "name_home": "Douglas Luiz Soares de Paulo",
+      "name_jer": "Douglas Luiz",
+      "age": 25,
+      "nationality": "Brazil",
+      "height": "1.78m",
+      "dob": "1998-05-09",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹420 Cr",
+      "joined": "Jul 25, 2019",
+      "league_record": {
+        "goals": 11,
+        "yellow_cards": 20,
+        "red_cards": 1,
+        "appearances": 105,
+        "assists": 10
+      },
+      "achievements": [
+        "1x Olympic Gold Medalist (Brazil U23)"
+      ]
+    },
+    {
+      "name_home": "Boubacar Bernard Kamara",
+      "name_jer": "Boubacar Kamara",
+      "age": 24,
+      "nationality": "France",
+      "height": "1.84m",
+      "dob": "1999-11-23",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹380 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 40,
+        "assists": 3
+      },
+      "achievements": [
+        "1x UEFA Nations League Winner (France)"
+      ]
+    },
+    {
+      "name_home": "John McGinn",
+      "name_jer": "John McGinn",
+      "age": 29,
+      "nationality": "Scotland",
+      "height": "1.78m",
+      "dob": "1994-10-18",
+      "position": "Central Midfield",
+      "foot": "Left",
+      "market_value": "₹320 Cr",
+      "joined": "Aug 8, 2018",
+      "league_record": {
+        "goals": 15,
+        "yellow_cards": 19,
+        "red_cards": 0,
+        "appearances": 130,
+        "assists": 15
+      },
+      "achievements": [
+        "1x Scottish Cup Winner (Hibernian FC)"
+      ]
+    },
+    {
+      "name_home": "Jacob Matthew Ramsey",
+      "name_jer": "Jacob Ramsey",
+      "age": 22,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "2001-05-28",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹500 Cr",
+      "joined": "Jul 1, 2020",
+      "league_record": {
+        "goals": 12,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 70,
+        "assists": 9
+      },
+      "achievements": [
+        "1x UEFA U21 Euro Winner (England U21)"
+      ]
+    },
+    {
+      "name_home": "Moussa Diaby",
+      "name_jer": "Moussa Diaby",
+      "age": 25,
+      "nationality": "France",
+      "height": "1.70m",
+      "dob": "1999-07-07",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹600 Cr",
+      "joined": "Jul 22, 2023",
+      "league_record": {
+        "goals": 9,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 8
+      },
+      "achievements": [
+        "1x UEFA Nations League Winner (France)"
+      ]
+    },
+    {
+      "name_home": "Ollie Tanner Watkins",
+      "name_jer": "Ollie Watkins",
+      "age": 28,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "1995-12-30",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹560 Cr",
+      "joined": "Sep 9, 2020",
+      "league_record": {
+        "goals": 45,
+        "yellow_cards": 16,
+        "red_cards": 0,
+        "appearances": 120,
+        "assists": 18
+      },
+      "achievements": [
+        "1x UEFA Nations League Runner-Up (England)"
+      ]
+    },
+    {
+      "name_home": "Cameron Archer",
+      "name_jer": "Cameron Archer",
+      "age": 22,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "2002-12-09",
+      "position": "Striker",
+      "foot": "Right",
+      "market_value": "₹250 Cr",
+      "joined": "Jul 1, 2021",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 30,
+        "assists": 2
+      },
+      "achievements": [
+        "1x FA Cup Winner (Aston Villa FC)"
+      ]
+    },
+    {
+      "name_home": "Leon Bailey",
+      "name_jer": "Leon Bailey",
+      "age": 26,
+      "nationality": "Jamaica",
+      "height": "1.78m",
+      "dob": "1997-08-09",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹450 Cr",
+      "joined": "Aug 4, 2021",
+      "league_record": {
+        "goals": 10,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 60,
+        "assists": 8
+      },
+      "achievements": [
+        "1x German Cup Winner (Bayer Leverkusen)"
+      ]
+    },
+    {
+      "name_home": "Ashley Young",
+      "name_jer": "Ashley Young",
+      "age": 39,
+      "nationality": "England",
+      "height": "1.75m",
+      "dob": "1985-07-09",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jul 1, 2021",
+      "league_record": {
+        "goals": 40,
+        "yellow_cards": 40,
+        "red_cards": 3,
+        "appearances": 350,
+        "assists": 60
+      },
+      "achievements": [
+        "1x Premier League Winner (Manchester United)",
+        "1x FA Cup Winner (Manchester United)"
+      ]
+    },
+    {
+      "name_home": "Jhon Durán",
+      "name_jer": "Jhon Durán",
+      "age": 20,
+      "nationality": "Colombia",
+      "height": "1.85m",
+      "dob": "2003-01-07",
+      "position": "Striker",
+      "foot": "Right",
+      "market_value": "₹300 Cr",
+      "joined": "Jan 15, 2024",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 4
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Emi Buendía",
+      "name_jer": "Emi Buendía",
+      "age": 27,
+      "nationality": "Argentina",
+      "height": "1.72m",
+      "dob": "1996-02-25",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹350 Cr",
+      "joined": "Jun 7, 2021",
+      "league_record": {
+        "goals": 15,
+        "yellow_cards": 14,
+        "red_cards": 1,
+        "appearances": 85,
+        "assists": 20
+      },
+      "achievements": [
+        "1x Copa América Winner (Argentina)"
+      ]
+    },
+    {
+      "name_home": "Philippe Coutinho",
+      "name_jer": "Philippe Coutinho",
+      "age": 32,
+      "nationality": "Brazil",
+      "height": "1.72m",
+      "dob": "1992-06-12",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹270 Cr",
+      "joined": "Jan 7, 2022",
+      "league_record": {
+        "goals": 12,
+        "yellow_cards": 10,
+        "red_cards": 0,
+        "appearances": 45,
+        "assists": 8
+      },
+      "achievements": [
+        "1x Premier League Winner (Liverpool)",
+        "1x La Liga Winner (Barcelona)"
+      ]
+    },
+    {
+      "name_home": "Diego Carlos",
+      "name_jer": "Diego Carlos",
+      "age": 31,
+      "nationality": "Brazil",
+      "height": "1.88m",
+      "dob": "1993-03-15",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹300 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 8,
+        "red_cards": 1,
+        "appearances": 35,
+        "assists": 1
+      },
+      "achievements": [
+        "1x Europa League Winner (Sevilla)"
+      ]
+    },
+    {
+      "name_home": "Robin Olsen",
+      "name_jer": "Robin Olsen",
+      "age": 34,
+      "nationality": "Sweden",
+      "height": "1.98m",
+      "dob": "1990-01-08",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹150 Cr",
+      "joined": "Aug 31, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 0,
+        "clean_sheets": 5,
+        "goals_conceded": 18
+      },
+      "achievements": [
+        "1x Swedish Cup Winner (IFK Göteborg)"
+      ]
+    },
+    {
+      "name_home": "Louis Barry",
+      "name_jer": "Louis Barry",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.76m",
+      "dob": "2002-06-21",
+      "position": "Striker",
+      "foot": "Right",
+      "market_value": "₹180 Cr",
+      "joined": "Jul 1, 2020",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 25,
+        "assists": 1
+      },
+      "achievements": [
+        "1x FA Youth Cup Winner (Aston Villa FC)"
+      ]
+    },
+    {
+      "name_home": "Jaden Philogene",
+      "name_jer": "Jaden Philogene",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.75m",
+      "dob": "2002-08-20",
+      "position": "Winger",
+      "foot": "Right",
+      "market_value": "₹220 Cr",
+      "joined": "Jul 1, 2021",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 25,
+        "assists": 3
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jan Bednarek",
+      "name_jer": "Jan Bednarek",
+      "age": 27,
+      "nationality": "Poland",
+      "height": "1.88m",
+      "dob": "1997-04-12",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹250 Cr",
+      "joined": "Jan 1, 2023",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 7,
+        "red_cards": 1,
+        "appearances": 50,
+        "assists": 2
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Phillip Kostić",
+      "name_jer": "Phillip Kostić",
+      "age": 31,
+      "nationality": "Serbia",
+      "height": "1.82m",
+      "dob": "1993-11-01",
+      "position": "Left Winger",
+      "foot": "Left",
+      "market_value": "₹320 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 8,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 15,
+        "assists": 7
+      },
+      "achievements": [
+        "1x Serie A Winner (Juventus)"
+      ]
+    },
+    {
+      "name_home": "Nicolás González",
+      "name_jer": "Nicolás González",
+      "age": 26,
+      "nationality": "Argentina",
+      "height": "1.81m",
+      "dob": "1998-04-06",
+      "position": "Winger",
+      "foot": "Left",
+      "market_value": "₹400 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 12,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 6
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Trezeguet",
+      "name_jer": "Trezeguet",
+      "age": 29,
+      "nationality": "Egypt",
+      "height": "1.79m",
+      "dob": "1994-10-01",
+      "position": "Winger",
+      "foot": "Right",
+      "market_value": "₹200 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 14,
+        "yellow_cards": 10,
+        "red_cards": 1,
+        "appearances": 60,
+        "assists": 9
+      },
+      "achievements": [
+        "1x Turkish Cup Winner (Trabzonspor)"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f1b8e7c57fbf7e60cf7673"
+  },
+  "club": "Newcastle United",
+  "league": "Premier League",
+  "players": [
+    {
+      "name_home": "Nicholas David Pope",
+      "name_jer": "Nick Pope",
+      "age": 32,
+      "nationality": "England",
+      "height": "1.98m",
+      "dob": "1992-04-19",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹128 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 15,
+        "assists": 0,
+        "goals_conceded": 16,
+        "clean_sheets": 6
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Martin Dúbravka",
+      "name_jer": "Martin Dúbravka",
+      "age": 35,
+      "nationality": "Slovakia",
+      "height": "1.91m",
+      "dob": "1989-01-15",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹8 Cr",
+      "joined": "Jul 1, 2018",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 0,
+        "goals_conceded": 42,
+        "clean_sheets": 5
+      },
+      "achievements": [
+        "1x Player of the Year (Newcastle United)",
+        "1x English League Cup winner (Manchester United)",
+        "2x Slovak champion (MSK Zilina)",
+        "1x Slovak cup winner"
+      ]
+    },
+    {
+      "name_home": "Mark Joseph Gillespie",
+      "name_jer": "Mark Gillespie",
+      "age": 32,
+      "nationality": "England",
+      "height": "1.91m",
+      "dob": "1992-03-27",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Jul 23, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Aidan Harris",
+      "name_jer": "Aidan Harris",
+      "age": 17,
+      "nationality": "England",
+      "height": "-",
+      "dob": "2006-12-16",
+      "position": "Goalkeeper",
+      "foot": "Left",
+      "market_value": "₹1.6 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Adam Alan Harrison",
+      "name_jer": "Adam Harrison",
+      "age": 17,
+      "nationality": "England",
+      "height": "-",
+      "dob": "2006-10-20",
+      "position": "Goalkeeper",
+      "foot": "-",
+      "market_value": "₹80 lakhs",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Sven Adriaan Botman",
+      "name_jer": "Sven Botman",
+      "age": 24,
+      "nationality": "Netherlands",
+      "height": "1.95m",
+      "dob": "2000-01-12",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹360 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "1x French champion (LOSC Lille)",
+        "1x Dutch U19 Champion (Ajax Amsterdam U19)",
+        "1x Dutch U17 Champion (Ajax Amsterdam U17)"
+      ]
+    },
+    {
+      "name_home": "Fabian Lukas Schär",
+      "name_jer": "Fabian Schär",
+      "age": 32,
+      "nationality": "Switzerland",
+      "height": "1.86m",
+      "dob": "1991-12-20",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jul 26, 2018",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 1
+      },
+      "achievements": [
+        "3x Swiss champion (FC Basel)"
+      ]
+    },
+    {
+      "name_home": "Daniel Johnson Burn",
+      "name_jer": "Dan Burn",
+      "age": 32,
+      "nationality": "England",
+      "height": "2.01m",
+      "dob": "1992-05-09",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹64 Cr",
+      "joined": "Jan 31, 2022",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 2
+      },
+      "achievements": [
+        "1x English 3rd tier champion (Wigan Athletic)"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Jamaal Lascelles",
+      "age": 30,
+      "nationality": "England",
+      "height": "1.88m",
+      "dob": "1993-11-11",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹56 Cr",
+      "joined": "Aug 9, 2014",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "1x Player of the Year (Newcastle United)",
+        "1x English 2nd tier champion (Newcastle United)"
+      ]
+    },
+    {
+      "name_home": "Lewis Kieran Hall",
+      "name_jer": "Lewis Hall",
+      "age": 20,
+      "nationality": "England",
+      "height": "1.79m",
+      "dob": "2004-09-08",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹144 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 18,
+        "assists": 0
+      },
+      "achievements": [
+        "1x English Super Cup Winner (Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Matthew Robert Targett",
+      "name_jer": "Matt Targett",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.83m",
+      "dob": "1995-09-18",
+      "position": "Defender - Left-Back",
+      "foot": "Left",
+      "market_value": "₹80 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 3,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Alex Murphy",
+      "age": 20,
+      "nationality": "Ireland",
+      "height": "1.84m",
+      "dob": "2004-06-25",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹12 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 2,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Valentino Francisco Livramento",
+      "name_jer": "Tino Livramento",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.82m",
+      "dob": "2002-11-12",
+      "position": "Defender - Right-Back",
+      "foot": "Right",
+      "market_value": "₹280 Cr",
+      "joined": "Aug 8, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 0
+      },
+      "achievements": [
+        "none"
+      ]
+    },
+    {
+      "name_home": "Kieran John Trippier",
+      "name_jer": "Kieran Trippier",
+      "age": 34,
+      "nationality": "England",
+      "height": "1.73m",
+      "dob": "1994-12-04",
+      "position": "Defender- Right-Back",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jan 7, 2022",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 28,
+        "assists": 10
+      },
+      "achievements": [
+        "1x Spanish champion(Atlético de Madrid)"
+      ]
+    },
+    {
+      "name_home": "Emil Henry ­Kristoffer Krafth",
+      "name_jer": "Emil Krafth",
+      "age": 30,
+      "nationality": "Sweden",
+      "height": "1.84m",
+      "dob": "1994-08-02",
+      "position": "Defender- Right-Back",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Aug 8, 2019",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Bruno Guimarães Rodrigues Moura",
+      "name_jer": "Bruno Guimarães",
+      "age": 26,
+      "nationality": "Brazil",
+      "height": "1.82m",
+      "dob": "1997-11-16",
+      "position": "Midfield - Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹680 Cr",
+      "joined": "Jan 30, 2022",
+      "league_record": {
+        "goals": 7,
+        "yellow_cards": 9,
+        "red_cards": 0,
+        "appearances": 37,
+        "assists": 8
+      },
+      "achievements": [
+        "1x Brazilian cup winner(Club Athletico Paranaense)",
+        "1x Copa Sudamericana winner(Atlético Paranaense)",
+        "1x Olympic medalist(Brazil Olympic Team)"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Sandro Tonali",
+      "age": 24,
+      "nationality": "Italy",
+      "height": "1.81m",
+      "dob": "2000-05-08",
+      "position": "Midfield - Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹304 Cr",
+      "joined": "Jul 3, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 8,
+        "assists": 0
+      },
+      "achievements": [
+        "2x Player of the Year(Brescia Calcio,Brescia Calcio)",
+        "1x Italian champion(AC Milan)",
+        "1x Italienischer Zweitligameister(Brescia Calcio)"
+      ]
+    },
+    {
+      "name_home": "Isaac Scott Hayden",
+      "name_jer": "Isaac Hayden",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.87m",
+      "dob": "1995-3-22",
+      "position": "Midfield - Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹14.4 Cr",
+      "joined": "Jul 11, 2016",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 22,
+        "assists": 3
+      },
+      "achievements": [
+        "1x English 2nd tier champion(Newcastle United)"
+      ]
+    },
+    {
+      "name_home": "Joelinton Cassio Apolinário de Lira",
+      "name_jer": "Joelinton",
+      "age": 28,
+      "nationality": "Brazil",
+      "height": "1.86m",
+      "dob": "1996-08-14",
+      "foot": "Right",
+      "market_value": "₹320 Cr",
+      "joined": "Jul 23, 2019",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 1
+      },
+      "achievements": [
+        "1x Player of the Year(Newcastle United)"
+      ]
+    },
+    {
+      "name_home": "Joseph George Willock",
+      "name_jer": "Joe Willock",
+      "age": 25,
+      "nationality": "England",
+      "height": "1.86m",
+      "dob": "1999-8-20",
+      "foot": "Right",
+      "market_value": "₹240 Cr",
+      "joined": "Aug 13, 2021",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 3,
+        "assists": 1
+      },
+      "achievements": [
+        "1x English FA Cup winner(Arsenal FC)",
+        "2x English Super Cup winner(Arsenal FC,Arsenal FC)"
+      ]
+    },
+    {
+      "name_home": "Sean David Longstaff",
+      "name_jer": "Sean Longstaff",
+      "age": 26,
+      "nationality": "England",
+      "height": "1.87m",
+      "dob": "1997-10-30",
+      "foot": "Right",
+      "market_value": "₹200 Cr",
+      "joined": "Jan 1, 2019",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 2
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Lewis Miley",
+      "age": 18,
+      "nationality": "England",
+      "height": "1.89m",
+      "dob": "2006-05-01",
+      "foot": "Right",
+      "market_value": "₹176 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Travis Enrique Hernes",
+      "name_jer": "Travis Hernes",
+      "age": 18,
+      "nationality": "Norway",
+      "height": "1.79m",
+      "dob": "2005-11-04",
+      "position": "Midfield - Central Midfield",
+      "foot": "Right",
+      "market_value": "₹1.2 Cr",
+      "joined": "Sep 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "James Alan Huntley",
+      "name_jer": "James Huntley",
+      "age": 20,
+      "nationality": "England",
+      "height": "-",
+      "dob": "2004-03-02",
+      "position": "Midfield - Central Midfield",
+      "foot": "-",
+      "market_value": "₹80 lakh",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Anthony Michael Gordon",
+      "name_jer": "Anthony Gordon",
+      "age": 23,
+      "nationality": "England",
+      "height": "1.83m",
+      "dob": "2001-02-24",
+      "position": "Attack - Left Winger",
+      "foot": "Right",
+      "market_value": "₹480 Cr",
+      "joined": "Jan 29, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 3,
+        "assists": 0
+      },
+      "achievements": [
+        "1x European Under-21 champion(England U21)",
+        "1x U21 Premier League champion(Everton FC U23)"
+      ]
+    },
+    {
+      "name_home": "Harvey Lewis Barnes",
+      "name_jer": "Harvey Barnes",
+      "age": 26,
+      "nationality": "England",
+      "height": "1.82m",
+      "dob": "1997-12-09",
+      "position": "Attack - Left Winger",
+      "foot": "Right",
+      "market_value": "₹280 Cr",
+      "joined": "Jul 23, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "1x English FA Cup winner(Leicester City)",
+        "1x English Super Cup winner(Leicester City)"
+      ]
+    },
+    {
+      "name_home": "Miguel Ángel Almirón Rejala",
+      "name_jer": "Miguel Almirón",
+      "age": 30,
+      "nationality": "Paraguay",
+      "height": "1.74m",
+      "dob": "1994-02-10",
+      "position": "Attack - Right Winger",
+      "foot": "Left",
+      "market_value": "₹160 Cr",
+      "joined": "Jan 31, 2019",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 3,
+        "assists": 0
+      },
+      "achievements": [
+        "1x MLS Cup Champion(Atlanta United FC)",
+        "1x Argentinian champion(CA Lanús)"
+      ]
+    },
+    {
+      "name_home": "Jacob Kai Murphy",
+      "name_jer": "Jacob Murphy",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.79m",
+      "dob": "1995-02-24",
+      "position": "Attack - Right Winger",
+      "foot": "Right",
+      "market_value": "₹120 Cr",
+      "joined": "Jul 19, 2017",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 1,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Ben Parkinson",
+      "age": 19,
+      "nationality": "England",
+      "height": "1.83m",
+      "dob": "2005-03-10",
+      "position": "Attack - Right Winger",
+      "foot": "Right",
+      "market_value": "₹2 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Alexander Isak",
+      "age": 25,
+      "nationality": "Sweden",
+      "height": "1.92m",
+      "dob": "1999-09-21",
+      "position": "Attack - Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹600 Cr",
+      "joined": "Aug 26, 2022",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 1,
+        "assists": 0
+      },
+      "achievements": [
+        "1x Top goal scorer(Copa del Rey - 7 Goals)",
+        "1x German cup winner(Borussia Dortmund)",
+        "1x Spanish cup winner(Real Sociedad)",
+        "1x German Under-19 Bundesliga champion(Borussia Dortmund U19)"
+      ]
+    },
+    {
+      "name_home": "Callum Eddie Graham Wilson",
+      "name_jer": "Callum Wilson",
+      "age": 32,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "1992-02-27",
+      "position": "Attack - Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹104 Cr",
+      "joined": "Sep 7, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "1x Player of the Year(Newcastle United)",
+        "1x English 2nd tier champion(AFC Bournemouth)"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f300bfb4cce0f4e6470f59"
+  },
+  "club": "Nottingham Forest",
+  "league": "Premier League",
+  "players": [
+    {
+      "name_home": "Matz Willy Els Sels",
+      "name_jer": "Matz Sels",
+      "age": 32,
+      "nationality": "Belgium",
+      "height": "1.88m",
+      "dob": "1992-02-26",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹56 Cr",
+      "joined": "Feb 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 16,
+        "assists": 0,
+        "goals_conceded": 27,
+        "clean_sheets": 1
+      },
+      "achievements": [
+        "1x French league cup winner(RC Strasbourg Alsace)",
+        "1x Belgian champion(KAA Gent)",
+        "2x Belgian Super Cup Winner(RSC Anderlecht,KAA Gent)",
+        "1x English 2nd tier champion(Newcastle United)"
+      ]
+    },
+    {
+      "name_home": "Murillo Santiago Costa dos Santos",
+      "name_jer": "Murillo",
+      "age": 22,
+      "nationality": "Brazil",
+      "height": "1.84m",
+      "dob": "2002-07-04",
+      "position": "Defender - Centre-Back",
+      "foot": "Left",
+      "market_value": "₹280 Cr",
+      "joined": "Aug 31, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 32,
+        "assists": 2,
+        "goals_conceded": 0,
+        "clean_sheets": 0,
+        "own goal": 1
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Andrew Abiola Omobamidele",
+      "name_jer": "Andrew Omobamidele",
+      "age": 22,
+      "nationality": "Ireland",
+      "height": "1.88m",
+      "dob": "2002-06-23",
+      "position": "Defender - Centre-Back",
+      "foot": "Right",
+      "market_value": "₹88 Cr",
+      "joined": "Sep 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 11,
+        "assists": 0,
+        "own goal": 1
+      },
+      "achievements": [
+        "1x English 2nd tier champion(Norwich City)"
+      ]
+    },
+    {
+      "name_home": "Willy-Arnaud Zobo Boly",
+      "name_jer": "Willy Boly",
+      "age": 33,
+      "nationality": "Ivory Coast",
+      "height": "1.95 m",
+      "dob": "1991-02-03",
+      "position": "Defender - Centre-Back",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Sep 1, 2022",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 1
+      },
+      "achievements": [
+        "1x Africa Cup winner(Ivory Coast)",
+        "1x Portuguese cup winner(SC Braga)",
+        "1x English 2nd tier champion(Wolverhampton Wanderers)"
+      ]
+    },
+    {
+      "name_home": "Zach MacFarlane Abbott",
+      "name_jer": "Zach Abbott",
+      "age": 18,
+      "nationality": "England",
+      "height": "-",
+      "dob": "2006-05-13",
+      "position": "Defender - Centre-Back",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Harry Stefano Toffolo",
+      "name_jer": "Harry Toffolo",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.83m",
+      "dob": "1995-08-19",
+      "position": "Defender - Left-Back",
+      "foot": "Left",
+      "market_value": "₹40 Cr",
+      "joined": "Jul 20, 2022",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 3
+      },
+      "achievements": [
+        "1x English 4th tier champion(Lincoln City)"
+      ]
+    },
+    {
+      "name_home": "Neco Shay Williams",
+      "name_jer": "Neco Williams",
+      "age": 23,
+      "nationality": "Wales",
+      "height": "1.83m",
+      "dob": "2001-04-13",
+      "position": "Defender - Right-Back",
+      "foot": "Right",
+      "market_value": "₹136 Cr",
+      "joined": "Jul 10, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 1
+      },
+      "achievements": [
+        "1x FIFA Club World Cup winner(Liverpool FC)",
+        "1x English Champion(Liverpool FC)",
+        "1x English League Cup winner(Liverpool FC)",
+        "1x English 2nd tier champion(Fulham FC)"
+      ]
+    },
+    {
+      "name_home": "Temitayo Olufisayo Olaoluwa Aina",
+      "name_jer": "Ola Aina",
+      "age": 27,
+      "nationality": "Nigeria",
+      "height": "1.84m",
+      "dob": "1996-10-08",
+      "position": "Defender - Right-Back",
+      "foot": "Right",
+      "market_value": "₹96 Cr",
+      "joined": "Jul 22, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 22,
+        "assists": 1
+      },
+      "achievements": [
+        "1x English Champion(Chelsea FC)",
+        "2x UEFA Youth League Winner(Chelsea FC UEFA U19,Chelsea FC UEFA U19)",
+        "1x U21 Premier League champion(Chelsea FC U21)"
+      ]
+    },
+    {
+      "name_home": "-",
+      "name_jer": "Ibrahim Sangaré",
+      "age": 26,
+      "nationality": "Ivory Coast",
+      "height": "1.91m",
+      "dob": "1997-12-02",
+      "position": "Midfield - Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹240 Cr",
+      "joined": "Sep 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 0
+      },
+      "achievements": [
+        "1x Africa Cup winner(Ivory Coast)",
+        "2x Dutch Cup winner(PSV Eindhoven,PSV Eindhoven)",
+        "3x Dutch Super Cup winner(PSV Eindhoven,PSV Eindhoven,PSV Eindhoven)"
+      ]
+    },
+    {
+      "name_home": "Danilo dos Santos de Oliveira",
+      "name_jer": "Danilo",
+      "age": 23,
+      "nationality": "Brazil",
+      "height": "1.77m",
+      "dob": "2001-04-29",
+      "position": "Midfield - Defensive Midfield",
+      "foot": "Left",
+      "market_value": "₹244 Cr",
+      "joined": "Jan 16, 2023",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 29,
+        "assists": 2
+      },
+      "achievements": [
+        "1x Brazilian champion(Sociedade Esportiva Palmeiras)",
+        "1x Brazilian cup winner(Sociedade Esportiva Palmeiras)",
+        "2x Copa Libertadores winner(Sociedade Esportiva Palmeiras,Sociedade Esportiva Palmeiras)",
+        "1x Recopa Sudamericana winner(Sociedade Esportiva Palmeiras)"
+      ]
+    },
+    {
+      "name_home": "Nicolás Martín Domínguez",
+      "name_jer": "Nicolás Domínguez",
+      "age": 26,
+      "nationality": "Argentina",
+      "height": "1.79m",
+      "dob": "1998-06-28",
+      "position": "Midfield - Central Midfield",
+      "foot": "Right",
+      "market_value": "₹136 Cr",
+      "joined": "Sep 1, 2023",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 2
+      },
+      "achievements": [
+        "1x Copa América winner(Argentina)"
+      ]
+    },
+    {
+      "name_home": "Ryan James Yates",
+      "name_jer": "Ryan Yates",
+      "age": 26,
+      "nationality": "England",
+      "height": "1.90m",
+      "dob": "1997-11-21",
+      "position": "Midfield - Central Midfield",
+      "foot": "Right",
+      "market_value": "₹96 Cr",
+      "joined": "Jul 1, 2016",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 1
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Morgan Anthony Gibbs-White",
+      "name_jer": "Morgan Gibbs-White",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.71m",
+      "dob": "2000-01-27",
+      "position": "Midfield - Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹320 Cr",
+      "joined": "Aug 19, 2022",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 9,
+        "red_cards": 0,
+        "appearances": 37,
+        "assists": 10
+      },
+      "achievements": [
+        "1x Under-17 World Cup champion(England U17)",
+        "1x European Under-21 champion(England U21)",
+        "1x English 2nd tier champion(Wolverhampton Wanderers)"
+      ]
+    },
+    {
+      "name_home": "Callum James Hudson-Odoi",
+      "name_jer": "Callum Hudson-Odoi",
+      "age": 23,
+      "nationality": "England",
+      "height": "1.78m",
+      "dob": "2000-11-07",
+      "position": "Attack - Left Winger",
+      "foot": "Right",
+      "market_value": "₹144 Cr",
+      "joined": "Sep 1, 2023",
+      "league_record": {
+        "goals": 8,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 29,
+        "assists": 1
+      },
+      "achievements": [
+        "1x Top goal scorer(FA Youth Cup - 10 Goals)",
+        "1x Champions League winner(Chelsea FC)",
+        "1x FIFA Club World Cup winner(Chelsea FC)",
+        "1x Uefa Supercup winner(Chelsea FC)",
+        "1x Europa League winner(Chelsea FC)",
+        "1x English FA Cup winner(Chelsea FC)",
+        "1x Under-17 World Cup champion(England U17)",
+        "1x English Youth League winner (U18)(Chelsea FC U18)"
+      ]
+    },
+    {
+      "name_home": "Anthony David Junior Elanga",
+      "name_jer": "Anthony Elanga",
+      "age": 22,
+      "nationality": "Sweden",
+      "height": "1.78m",
+      "dob": "2002-04-27",
+      "position": "Attack - Right Winger",
+      "foot": "Right",
+      "market_value": "₹176 Cr",
+      "joined": "Jul 25, 2023",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 9
+      },
+      "achievements": [
+        "1x English League Cup winner(Manchester United)"
+      ]
+    },
+    {
+      "name_home": "Joseph Charles Gardner",
+      "name_jer": "Joe Gardner",
+      "age": 19,
+      "nationality": "England",
+      "height": "-",
+      "dob": "2005-06-06",
+      "position": "Attack - Right Winger",
+      "foot": "Right",
+      "market_value": "₹1.2 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "None"
+      ]
+    },
+    {
+      "name_home": "Taiwo Michael Awoniyi",
+      "name_jer": "Taiwo Awoniyi",
+      "age": 27,
+      "nationality": "Nigeria",
+      "height": "1.83m",
+      "dob": "1997-08-12",
+      "position": "Attack - Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹224 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 3
+      },
+      "achievements": [
+        "1x Under-23 Africa Cup winner(Nigeria U23)",
+        "1x Under-17 World Cup champion(Nigeria U17)",
+        "1x Under-20 Africa Cup winner(Nigeria U20)"
+      ]
+    },
+    {
+      "name_home": "Christopher Grant Wood",
+      "name_jer": "Chris Wood",
+      "age": 32,
+      "nationality": "New Zealand",
+      "height": "1.91m",
+      "dob": "1991-12-07",
+      "position": "Attack - Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹56 Cr",
+      "joined": "Jul 01, 2023",
+      "league_record": {
+        "goals": 14,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 1
+      },
+      "achievements": [
+        "2x Footballer of the Year(New Zealand,New Zealand)",
+        "3x Top goal scorer(World Cup qualification Oceania,Championship - 27 Goals,World Cup qualification Oceania - 8 Goals)",
+        "1x OFC Nations Cup winner(New Zealand)",
+        "1x English 2nd tier champion(Leicester City)",
+        "1x English 3rd tier champion(Brighton & Hove Albion)"
+      ]
+    },
+    {
+      "name_home": "Emmanuel Bonaventure Dennis",
+      "name_jer": "Emmanuel Dennis",
+      "age": 26,
+      "nationality": "Nigeria",
+      "height": "1.75m",
+      "dob": "1997-11-15",
+      "position": "Attack - Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹33.6 Cr",
+      "joined": "Aug 13, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0
+      },
+      "achievements": [
+        "3x Belgian champion(Club Brugge KV,Club Brugge KV,Club Brugge KV)"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66ec75bd604c623401b6095a"
+  },
+  "club": "AFC Bournemouth",
+  "league": "English Premier League",
+  "players": [
+    {
+      "name_home": "Mark Travers",
+      "name_jer": "Mark Travers",
+      "age": 25,
+      "nationality": "Ireland",
+      "height": "1.91m",
+      "dob": "1999-05-18",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹28 Cr",
+      "joined": "Jul 1, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 21,
+        "assists": 0,
+        "clean_sheets": 5,
+        "goals_conceded": 27
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Ionuț Andrei Radu",
+      "name_jer": "Andrei Radu",
+      "age": 27,
+      "nationality": "Romania",
+      "height": "1.88m",
+      "dob": "1997-05-28",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹24 Cr",
+      "joined": "Jul 12, 2019",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 5,
+        "assists": 0,
+        "clean_sheets": 1,
+        "goals_conceded": 11
+      },
+      "achievements": [
+        "1x Footballer Of The Year (Romania)",
+        "1x Goalkeeper Of The Season (18/19)",
+        "1x Italian Champion (20/21 Inter Milan)",
+        "1x Italian Cup Winner  (21/22 Inter Milan)",
+        "1x Italian Super Cup Winner  (21/22 Inter Milan)",
+        "1x Coppa Italia Primavera winner (15/16 Inter Milan Primavera)",
+        "1x Viareggio (14/15 Inter Milan Primavera)"
+      ]
+    },
+    {
+      "name_home": "Norberto Murara Neto",
+      "name_jer": " Neto",
+      "age": 35,
+      "nationality": "Brazil",
+      "height": "1.90m",
+      "dob": "1989-07-19",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 32,
+        "assists": 0,
+        "clean_sheets": 7,
+        "goals_conceded": 55
+      },
+      "achievements": [
+        "2x Italian Champion (15/16 , 16/17 Juventus FC)",
+        "2x Italian Cup Winner (15/16 , 16/17 Juventus FC)",
+        "2x Spanish Cup Winner (20/21 FC Barcelona , 18/19 Valencia CF)",
+        "1x Italian Super Cup Winner (15/16 Juventus FC)"
+      ]
+    },
+    {
+      "name_home": "William Jonathan Dennis",
+      "name_jer": " Will Dennis",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.88m",
+      "dob": "2000-07-10",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹2.8 Cr",
+      "joined": "Aug 1, 2021",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 44,
+        "assists": 0,
+        "clean_sheets": 18,
+        "goals_conceded": 44
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Darren Edward Andrew Randolph",
+      "name_jer": " Darren Randolph",
+      "age": 37,
+      "nationality": "Ireland",
+      "height": "1.87m",
+      "dob": "1987-05-12",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Conference League Winner (22/23 West Ham United)"
+      ]
+    },
+    {
+      "name_home": "Cameron Christopher Plain",
+      "name_jer": " Cameron Plain",
+      "age": 22,
+      "nationality": "England",
+      "height": "1.87m",
+      "dob": "2001-09-24",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹80 L",
+      "joined": "Jul 31, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Callan McKenna",
+      "name_jer": " Callan McKenna",
+      "age": 17,
+      "nationality": "Scotland",
+      "height": "1.87m",
+      "dob": "2006-12-22",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹80 L",
+      "joined": "Feb 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 10,
+        "assists": 0,
+        "clean_sheets": 2,
+        "goals_conceded": 23
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Забарний Ілля Борисович",
+      "name_jer": "Ilya Zabarnyi",
+      "age": 22,
+      "nationality": "Ukraine",
+      "height": "1.89m",
+      "dob": "2002-09-01",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹256 Cr",
+      "joined": "Jan 31, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 42,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Ukrainian Champion (20/21 Dynamo Kyiv)",
+        "1x Ukrainian Cup Winner (20/21 Dynamo Kyiv)",
+        "1x Ukrainian Super Cup Winner (20/21 Dynamo Kyiv)"
+      ]
+    },
+    {
+      "name_home": "Marcos Nicolás Senesi Barón",
+      "name_jer": "Marcos Senesi",
+      "age": 27,
+      "nationality": "Argentina",
+      "height": "1.85m",
+      "dob": "1997-05-10",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹176 Cr",
+      "joined": "Aug 8, 2022",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 15,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 5,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Lloyd Casius Kelly",
+      "name_jer": "Lloyd Kelly",
+      "age": 25,
+      "nationality": "England",
+      "height": "1.90m",
+      "dob": "1998-10-06",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹144 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 25,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Christopher James Mepham",
+      "name_jer": "Chris Mepham",
+      "age": 26,
+      "nationality": "England",
+      "height": "1.90m",
+      "dob": "1997-11-05",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹48 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 13,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "James Clayton Hill",
+      "name_jer": " James Hill",
+      "age": 22,
+      "nationality": "England",
+      "height": "1.84m",
+      "dob": "2002-01-10",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹16 Cr",
+      "joined": "Jan 5, 2022",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Maxwell Benjamin Kinsey",
+      "name_jer": " Max Kinsey",
+      "age": 19,
+      "nationality": "England",
+      "height": "1.84m",
+      "dob": "2005-02-02",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹1.2 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Милош Керкез",
+      "name_jer": " Milos Kerkez",
+      "age": 20,
+      "nationality": "Hungary",
+      "height": "1.80m",
+      "dob": "2003-11-07",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹160 Cr",
+      "joined": "Jul 20, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 6,
+        "red_cards": 1,
+        "appearances": 33,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Ben Greenwood",
+      "name_jer": " Ben Greenwood",
+      "age": 21,
+      "nationality": "Ireland",
+      "height": "1.70m",
+      "dob": "2003-02-20",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹1.6 Cr",
+      "joined": "Jul 16, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 4,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Maximilian James Aarons",
+      "name_jer": " Max Aarons",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.71m",
+      "dob": "2000-01-04",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹128 Cr",
+      "joined": "Aug 10, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x European Under-21 Champion (23 England U21)",
+        "2x English 2nd Tier Champion (20/21 Norwich City , 18/19 Norwich City)"
+      ]
+    },
+    {
+      "name_home": "Ryan Marlowe Fredericks",
+      "name_jer": " Ryan Fredericks",
+      "age": 31,
+      "nationality": "England",
+      "height": "1.81m",
+      "dob": "1992-10-10",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹8 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Adam James Smith",
+      "name_jer": " Adam Smith",
+      "age": 33,
+      "nationality": "England",
+      "height": "1.74m",
+      "dob": "1991-04-29",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹8 Cr",
+      "joined": "Jan 28, 2014",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Torneio Internacional Algarve U17 (2008 England U17)",
+        "1x English 2nd Tier Champion (14/15 AFC Bournemouth)"
+      ]
+    },
+    {
+      "name_home": "Tyler Shaan Adams",
+      "name_jer": "Tyler Adams",
+      "age": 25,
+      "nationality": "United States",
+      "height": "1.75m",
+      "dob": "1999-02-14",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹120 Cr",
+      "joined": "Aug 20, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 4,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x German cup winner (21/22 RB Leipzig)",
+        "1x Supporters' Shield Winner (17/18 New York Red Bulls)",
+        "1x USL Cup Champion (15/16 New York Red Bulls II)",
+        "1x CONCACAF Nations League Winner (19/20 United States)",
+        "1x CONCACAF-U20-Championship-Champion (16/17 United States U20)"
+      ]
+    },
+    {
+      "name_home": "Philip Anyanwu Billing",
+      "name_jer": "Philip Billing",
+      "age": 28,
+      "nationality": "Denmark",
+      "height": "1.93m",
+      "dob": "1996-06-11",
+      "position": "Central Midfield",
+      "foot": "Left",
+      "market_value": "₹176 Cr",
+      "joined": "Jul 29, 2019",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 4,
+        "red_cards": 1,
+        "appearances": 33,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Alex Jay Scott",
+      "name_jer": "Alex Scott",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.78m",
+      "dob": "2003-08-21",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹160 Cr",
+      "joined": "Aug 10, 2023",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 27,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x European Under-19 Champion (2022 England U19)"
+      ]
+    },
+    {
+      "name_home": "Lewis John Cook",
+      "name_jer": "Lewis Cook",
+      "age": 27,
+      "nationality": "England",
+      "height": "1.75m",
+      "dob": "1997-02-03",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹96 Cr",
+      "joined": "Jul 8, 2016",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 6,
+        "red_cards": 1,
+        "appearances": 38,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x European Under-17 Champion (2014 England U17)",
+        "1x Under-20 World Cup Champion (2017 England U20)"
+      ]
+    },
+    {
+      "name_home": "Ryan Christie",
+      "name_jer": "Ryan Christie",
+      "age": 29,
+      "nationality": "Scotland",
+      "height": "1.78m",
+      "dob": "1995-02-22",
+      "position": "Central Midfield",
+      "foot": "Left",
+      "market_value": "₹96 Cr",
+      "joined": "Aug 31, 2021",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 43,
+        "assists": 5,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "4x Scottish Champion (21/22 Celtic FC , 19/20 Celtic FC , 18/19 Celtic FC , 15/16 Celtic FC)",
+        "3x Scottish Cup Winner (19/20 Celtic FC , 18/19 Celtic FC , 14/15 Inverness Caledonian Thistle FC)",
+        "2x Scottish League Cup Winner (19/20 Celtic FC , 18/19 Celtic FC)"
+      ]
+    },
+    {
+      "name_home": "Joseph Matthew Rothwell",
+      "name_jer": "Joe Rothwell",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.85m",
+      "dob": "1995-01-11",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Jul 11, 2024",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Football League Trophy Winner (15/16 Barnsley FC)",
+        "2x U21 Premier League Champion (15/16 Manchester United U21 , 14/15 Manchester United U21)"
+      ]
+    },
+    {
+      "name_home": "Gavin Kilkenny",
+      "name_jer": "Gavin Kilkenny",
+      "age": 24,
+      "nationality": "Ireland",
+      "height": "1.75m",
+      "dob": "2000-02-01",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Aug 29, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Romain Faivre",
+      "name_jer": "Romain Faivre",
+      "age": 26,
+      "nationality": "France",
+      "height": "1.80m",
+      "dob": "1998-07-14",
+      "position": "Right Midfield",
+      "foot": "Left",
+      "market_value": "₹120 Cr",
+      "joined": "Aug 16, 2024",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Marcus Joseph Tavernier",
+      "name_jer": "Marcus Tavernier",
+      "age": 25,
+      "nationality": "England",
+      "height": "1.78m",
+      "dob": "1999-03-22",
+      "position": "Left Midfield",
+      "foot": "Left",
+      "market_value": "₹160 Cr",
+      "joined": "Aug 1, 2022",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Hamed Junior Traoré",
+      "name_jer": "Hamed Junior Traoré",
+      "age": 24,
+      "nationality": "  Cote d'Ivoire",
+      "height": "1.77m",
+      "dob": "2000-02-16",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹136 Cr",
+      "joined": "Aug 27, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Italienischer Zweitligameister (17/18 FC Empoli)"
+      ]
+    },
+    {
+      "name_home": "Emiliano Marcondes Camargo Hansen",
+      "name_jer": "Emiliano Marcondes",
+      "age": 29,
+      "nationality": "Denmark",
+      "height": "1.82m",
+      "dob": "1995-03-09",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹12 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Top Goal Scorer (17/18 alka Superliga - 17 Goals)",
+        "1x Danish Champion (19/20 FC Midtjylland)"
+      ]
+    },
+    {
+      "name_home": "Dango Aboubacar Faissal Ouattara",
+      "name_jer": "Dango Ouattara",
+      "age": 22,
+      "nationality": "Burkina Faso",
+      "height": "1.77m",
+      "dob": "2002-02-11",
+      "position": "Left Winger",
+      "foot": "Left",
+      "market_value": "₹160 Cr",
+      "joined": "Jan 19, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 32,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Luis Fernando Sinisterra Lucumí",
+      "name_jer": "Luis Sinisterra",
+      "age": 25,
+      "nationality": "Colombia",
+      "height": "1.72m",
+      "dob": "1999-06-17",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹136 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 27,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Justin Dean Kluivert",
+      "name_jer": "Justin Kluivert",
+      "age": 25,
+      "nationality": "Netherlands",
+      "height": "1.72m",
+      "dob": "1999-05-05",
+      "position": "Left Winger",
+      "foot": "Both",
+      "market_value": "₹112 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 9,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Dutch U19 Champion (2016 Ajax Amsterdam U19)"
+      ]
+    },
+    {
+      "name_home": "Jaidon Kya Denley Anthony",
+      "name_jer": "Jaidon Anthony",
+      "age": 24,
+      "nationality": "England",
+      "height": "1.83m",
+      "dob": "1999-05-05",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹48 Cr",
+      "joined": "Aug 29, 2024",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 42,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Dominic Sadi",
+      "name_jer": "Dominic Sadi",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.74m",
+      "dob": "2003-09-02",
+      "position": "Left Winger",
+      "foot": "Left",
+      "market_value": "₹80 L",
+      "joined": "Aug 21, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 2,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Antoine Serlom Semenyo",
+      "name_jer": "Antoine Semenyo",
+      "age": 24,
+      "nationality": "Ghana",
+      "height": "1.85m",
+      "dob": "2000-01-07",
+      "position": "Right Winger",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jan 27, 2023",
+      "league_record": {
+        "goals": 8,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "David Robert Brooks",
+      "name_jer": "David Brooks",
+      "age": 27,
+      "nationality": "Wales",
+      "height": "1.73m",
+      "dob": "1997-07-08",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹64 Cr",
+      "joined": "Jul 1, 2018",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 9,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Footballer Of The Year (2018 Wales)",
+        "1x English 3rd Tier Champion (16/17 Sheffield United)"
+      ]
+    },
+    {
+      "name_home": "Michael Dacosta González",
+      "name_jer": "Michael Dacosta González",
+      "age": 19,
+      "nationality": "Spain",
+      "height": "1.86m",
+      "dob": "2005-03-05",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": " ",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Dominic Ayodele Solanke-Mitchell",
+      "name_jer": "Dominic Solanke",
+      "age": 27,
+      "nationality": "England",
+      "height": "1.86m",
+      "dob": "1997-09-14",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹320 Cr",
+      "joined": "Aug 10, 2024",
+      "league_record": {
+        "goals": 21,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 42,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "2x Top Goal Scorer (14/15 UEFA Youth League - 12 Goals , 13/14 2014 UEFA European Under-17 Championship - 4 Goals)",
+        "1x English Champion (16/17 Chelsea FC)",
+        "1x UEFA Youth League Winner (14/15 Chelsea FC UEFA U19)",
+        "1x European Under-17 Champion (2014 England U17)",
+        "1x Under-20 World Cup Champion (2017 England U20)",
+        "1x U21 Premier League Champion (13/14 Chelsea FC U21)"
+      ]
+    },
+    {
+      "name_home": "Enes Ünal",
+      "name_jer": "Enes Ünal",
+      "age": 27,
+      "nationality": "Türkiye",
+      "height": "1.87m",
+      "dob": "1997-05-10",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹144 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 22,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Footballer Of The Year (2022 Türkiye)"
+      ]
+    },
+    {
+      "name_home": "Kieffer Roberto Francisco Moore",
+      "name_jer": "Kieffer Moore",
+      "age": 32,
+      "nationality": "Wales",
+      "height": "1.96m",
+      "dob": "1992-08-08",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹16 Cr",
+      "joined": "Jul 15, 2024",
+      "league_record": {
+        "goals": 9,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jamal Akua Lowe",
+      "name_jer": "Jamal Lowe",
+      "age": 30,
+      "nationality": "Jamaica",
+      "height": "1.83m",
+      "dob": "1994-07-21",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹12 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 9,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English 4th Tier Champion (16/17 Portsmouth FC)",
+        "1x Football League Trophy Winner (18/19 Portsmouth FC)"
+      ]
+    },
+    {
+      "name_home": "Daniel William Kwabena Adu-Adjei",
+      "name_jer": "Daniel Adu-Adjei",
+      "age": 19,
+      "nationality": "England",
+      "height": "1.76m",
+      "dob": "2005-06-21",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": " ",
+      "joined": "Aug 1, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 11,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eefe9261438f56be3ba284"
+  },
+  "club": "Brentford FC",
+  "league": "English Premier League",
+  "players": [
+    {
+      "name_home": "Mark Flekken",
+      "name_jer": "Mark Flekken",
+      "age": 31,
+      "nationality": "Netherlands",
+      "height": "1.95m",
+      "dob": "1993-06-13",
+      "position": "Goalkeeper",
+      "foot": "Both",
+      "market_value": "₹96 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 0,
+        "clean_sheets": 7,
+        "goals_conceded": 64
+      },
+      "achievements": [
+        "1x German Third Tier Champion (16/17 MSV Duisburg)",
+        "1x German Regionalliga Southwest Champion (20/21 SC Freiburg II)",
+        "1x Lower Rhine Cup Winner (16/17 MSV Duisburg)"
+      ]
+    },
+    {
+      "name_home": "Thomas Fotaq Strakosha , Θωμάς Στρακόσια",
+      "name_jer": "Thomas Strakosha",
+      "age": 29,
+      "nationality": "Albania",
+      "height": "1.93m",
+      "dob": "1995-03-19",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹24 Cr",
+      "joined": "Jul 8, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 4,
+        "assists": 0,
+        "clean_sheets": 1,
+        "goals_conceded": 6
+      },
+      "achievements": [
+        "2x Italian Cup Winner (18/19 SS Lazio , 12/13 SS Lazio)",
+        "2x Italian Super Cup Winner (19/20 SS Lazio , 17/18 SS Lazio)",
+        "1x Italian Youth Champion (Primavera) (12/13 Lazio U19)",
+        "1x Coppa Italia Primavera Winner (13/14 Lazio U19)"
+      ]
+    },
+    {
+      "name_home": "Hákon Rafn Valdimarsson",
+      "name_jer": "Hákon Rafn Valdimarsson",
+      "age": 22,
+      "nationality": " Iceland",
+      "height": "1.95m",
+      "dob": "2001-10-13",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Jan 26, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Matthew Aidan Cox",
+      "name_jer": "Matthew Cox",
+      "age": 21,
+      "nationality": " England",
+      "height": "1.83m",
+      "dob": "2003-05-02",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹6.4 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 34,
+        "assists": 0,
+        "clean_sheets": 3,
+        "goals_conceded": 51
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Ellery Ronald Balcombe",
+      "name_jer": "Ellery Balcombe",
+      "age": 24,
+      "nationality": " England",
+      "height": "1.90m",
+      "dob": "1999-10-15",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 1
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Vincent Angelini",
+      "name_jer": "Vincent Angelini",
+      "age": 21,
+      "nationality": " Scotland",
+      "height": "1.90m",
+      "dob": "2003-09-12",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹80 L",
+      "joined": "Sep 2, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Nathan Michael Collins",
+      "name_jer": "Nathan Collins",
+      "age": 23,
+      "nationality": " Ireland",
+      "height": "1.93m",
+      "dob": "2001-04-30",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹200 Cr",
+      "joined": "Jul 4, 2023",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 35,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Footballer Of The Year (2022 Ireland)"
+      ]
+    },
+    {
+      "name_home": "Kristoffer Vassbakk Köpp Ajer",
+      "name_jer": "Kristoffer Ajer",
+      "age": 26,
+      "nationality": "Norway",
+      "height": "1.98m",
+      "dob": "1998-04-17",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹120 Cr",
+      "joined": "Jul 21, 2021",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "3x Scottish Champion (19/20 Celtic FC , 18/19 Celtic FC , 17/18 Celtic FC)",
+        "3x Scottish Cup Winner (19/20 Celtic FC , 18/19 Celtic FC , 17/18 Celtic FC)",
+        "3x Scottish League Cup Winner (19/20 Celtic FC , 18/19 Celtic FC , 17/18 Celtic FC)"
+      ]
+    },
+    {
+      "name_home": "Ethan Rupert Pinnock",
+      "name_jer": "Ethan Pinnock",
+      "age": 31,
+      "nationality": "Jamaica",
+      "height": "1.94m",
+      "dob": "1993-05-29",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹96 Cr",
+      "joined": "Jul 2, 2019",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Mathias Jattah-Njie Jørgensen",
+      "name_jer": "Mathias Jørgensen",
+      "age": 34,
+      "nationality": "Denmark",
+      "height": "1.89m",
+      "dob": "1990-04-23",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹8 Cr",
+      "joined": "Aug 15, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 18,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "5x Danish Champion (16/17 FC Copenhagen , 15/16 FC Copenhagen , 10/11 FC Copenhagen , 09/10 FC Copenhagen , 08/09 FC Copenhagen)",
+        "5x Danish Cup Winner (16/17 FC Copenhagen , 15/16 FC Copenhagen , 14/15 FC Copenhagen , 11/12 FC Copenhagen , 08/09 FC Copenhagen)",
+        "1x Dutch Super Cup Winner (2013 PSV Eindhove)"
+      ]
+    },
+    {
+      "name_home": "Benjamin Thomas Mee",
+      "name_jer": "Ben Mee",
+      "age": 35,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "1989-09-21",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹8 Cr",
+      "joined": "Jul 22, 2022",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 1,
+        "red_cards": 1,
+        "appearances": 18,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English 2nd Tier Champion (15/16 Burnley FC)"
+      ]
+    },
+    {
+      "name_home": "김지수",
+      "name_jer": "Ji-soo Kim",
+      "age": 19,
+      "nationality": "Korea, South",
+      "height": "1.92m",
+      "dob": "2004-12-24",
+      "position": "Centre-Back",
+      "foot": "Both",
+      "market_value": "₹4.8 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x WAFF West Asian U23 Championship Winner (23/24 South Korea U23)"
+      ]
+    },
+    {
+      "name_home": "Charles James Goode",
+      "name_jer": "Charlie Goode",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.96m",
+      "dob": "1995-08-03",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹4 Cr",
+      "joined": "Aug 5, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 13,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Benjamin Arthur",
+      "name_jer": "Benjamin Arthur",
+      "age": 18,
+      "nationality": "England",
+      "height": "1.92m",
+      "dob": "2005-10-09",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹2 Cr",
+      "joined": "Aug 31, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Benjamin Chiemela Fredrick",
+      "name_jer": "Benjamin Fredrick",
+      "age": 19,
+      "nationality": "Nigeria",
+      "height": "1.87m",
+      "dob": "2005-05-28",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹1.2 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Rico Antonio Henry",
+      "name_jer": "Rico Henry",
+      "age": 27,
+      "nationality": "England",
+      "height": "1.70m",
+      "dob": "1997-07-08",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹160 Cr",
+      "joined": "Aug 31, 2016",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 5,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Sergio Reguilón Rodríguez",
+      "name_jer": "Sergio Reguilón",
+      "age": 27,
+      "nationality": "Spain",
+      "height": "1.78m",
+      "dob": "1996-12-16",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹96 Cr",
+      "joined": "Sep 19, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 8,
+        "red_cards": 1,
+        "appearances": 28,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x FIFA Club World Cup Winner (2019 Real Madrid)",
+        "1x Europa League Winner (19/20 Sevilla FC)"
+      ]
+    },
+    {
+      "name_home": "Valintino Adedokun",
+      "name_jer": "Val Adedokun",
+      "age": 21,
+      "nationality": "Ireland",
+      "height": "1.80m",
+      "dob": "2003-02-14",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹1.2 Cr",
+      "joined": "Aug 24, 2021",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 0,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Aaron Buchanan Hickey",
+      "name_jer": "Aaron Hickey",
+      "age": 22,
+      "nationality": "Scotland",
+      "height": "1.85m",
+      "dob": "2002-06-10",
+      "position": "Right-Back",
+      "foot": "Both",
+      "market_value": "₹224 Cr",
+      "joined": "Jul 9, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 11,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Mads Roerslev Rasmussen",
+      "name_jer": "Mads Roerslev",
+      "age": 25,
+      "nationality": "Denmark",
+      "height": "1.84m",
+      "dob": "1999-06-24",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Aug 7, 2019",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 38,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Danish Cup Winner (16/17 FC Copenhagen)"
+      ]
+    },
+    {
+      "name_home": "Finley John Stevens",
+      "name_jer": "Fin Stevens",
+      "age": 21,
+      "nationality": "Wales",
+      "height": "1.79m",
+      "dob": "2003-04-10",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹3.6 Cr",
+      "joined": "Jul 26, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 43,
+        "assists": 5,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Vitaly Janelt",
+      "name_jer": "Vitaly Janelt",
+      "age": 26,
+      "nationality": "Germany",
+      "height": "1.84m",
+      "dob": "1998-05-10",
+      "position": "Defensive Midfield",
+      "foot": "Left",
+      "market_value": "₹176 Cr",
+      "joined": "Oct 3, 2020",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 42,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x European Under-21 Champion (2021 Germany U21)",
+        "1x German Second Tier Champion (20/21 VfL Bochum)",
+        "1x Torneio Internacional Algarve U17 (2015 Germany U17)"
+      ]
+    },
+    {
+      "name_home": "Christian Thers Nørgaard",
+      "name_jer": "Christian Nørgaard",
+      "age": 30,
+      "nationality": "Denmark",
+      "height": "1.87m",
+      "dob": "1994-03-10",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹144 Cr",
+      "joined": "Jul 1, 2019",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Danish Cup Winner (17/18 Bröndby IF)"
+      ]
+    },
+    {
+      "name_home": "Yunus Emre Konak",
+      "name_jer": "Yunus Emre Konak",
+      "age": 18,
+      "nationality": "Türkiye",
+      "height": "1.81m",
+      "dob": "2006-01-10",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹28 Cr",
+      "joined": "Jan 11, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Mathias Jensen",
+      "name_jer": "Mathias Jensen",
+      "age": 28,
+      "nationality": "Denmark",
+      "height": "1.80m",
+      "dob": "1996-01-01",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹224 Cr",
+      "joined": "Jul 10, 2019",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Pelenda Joshua Tunga Dasilva",
+      "name_jer": "Josh Dasilva",
+      "age": 25,
+      "nationality": "England",
+      "height": "1.84m",
+      "dob": "1998-10-23",
+      "position": "Central Midfield",
+      "foot": "Left",
+      "market_value": "₹80 Cr",
+      "joined": "Aug 21, 2018",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 5,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English FA Cup Winner (2017 Arsenal FC)",
+        "1x European Under-19 Champion (2017 England U19)"
+      ]
+    },
+    {
+      "name_home": "Ogochukwu Frank Onyeka",
+      "name_jer": "Frank Onyeka",
+      "age": 26,
+      "nationality": "Nigeria",
+      "height": "1.83m",
+      "dob": "1998-01-01",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹72 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 28,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "2x Danish Champion (19/20 FC Midtjylland , 17/18 FC Midtjylland)",
+        "1x Danish Cup Winner (18/19 FC Midtjylland)"
+      ]
+    },
+    {
+      "name_home": "Shandon Harkeem Baptiste",
+      "name_jer": "Shandon Baptiste",
+      "age": 26,
+      "nationality": " Grenada",
+      "height": "1.80m",
+      "dob": "1998-04-08",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹20 Cr",
+      "joined": "Jul 6, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 12,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Edmond-Paris Maghoma",
+      "name_jer": "Paris Maghoma",
+      "age": 23,
+      "nationality": " England",
+      "height": "1.84m",
+      "dob": "2001-05-08",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹2.8 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 9,
+        "yellow_cards": 10,
+        "red_cards": 0,
+        "appearances": 50,
+        "assists": 7,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Ethan Craig Brierley",
+      "name_jer": "Ethan Brierley",
+      "age": 20,
+      "nationality": " England",
+      "height": "1.68m",
+      "dob": "2003-11-23",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 1,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Ryan Joseph Trevitt",
+      "name_jer": "Ryan Trevitt",
+      "age": 21,
+      "nationality": " England",
+      "height": "1.7m",
+      "dob": "2003-03-12",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹2.2 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Ярмолюк Єгор Романович",
+      "name_jer": "Yegor Yarmolyuk",
+      "age": 20,
+      "nationality": " Ukraine",
+      "height": "1.80m",
+      "dob": "2004-03-01",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 30,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "سامان قدوس",
+      "name_jer": "Saman Ghoddos",
+      "age": 31,
+      "nationality": "Iran",
+      "height": "1.75m",
+      "dob": "1993-09-06",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Swedish Cup Winner (2017 Östersunds FK)"
+      ]
+    },
+    {
+      "name_home": "Myles Spencer Peart-Harris",
+      "name_jer": "Myles Peart-Harris",
+      "age": 22,
+      "nationality": "Jamaica",
+      "height": "1.87m",
+      "dob": "2002-09-18",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹5.6 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English 3rd Tier Champion (23/24 Portsmouth FC)"
+      ]
+    },
+    {
+      "name_home": "Kevin Schade",
+      "name_jer": "Kevin Schade",
+      "age": 22,
+      "nationality": "Germany",
+      "height": "1.85m",
+      "dob": "2001-11-27",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹176 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 12,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x German Regionalliga Southwest Champion (20/21 SC Freiburg II)"
+      ]
+    },
+    {
+      "name_home": "Keane William Lewis-Potter",
+      "name_jer": "Keane Lewis-Potter",
+      "age": 23,
+      "nationality": "England",
+      "height": "1.70m",
+      "dob": "2001-02-22",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹120 Cr",
+      "joined": "Jul 12, 2022",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 34,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English 3rd Tier Champion (20/21 Hull City)"
+      ]
+    },
+    {
+      "name_home": "Mikkel Krogh Damsgaard",
+      "name_jer": "Mikkel Damsgaard",
+      "age": 24,
+      "nationality": "Denmark",
+      "height": "1.80m",
+      "dob": "2000-07-03",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Aug 10, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 25,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Bryan Tetsadong Marceau Mbeumo",
+      "name_jer": "Bryan Mbeumo",
+      "age": 25,
+      "nationality": "Cameroon",
+      "height": "1.71m",
+      "dob": "1999-08-07",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹320 Cr",
+      "joined": "Aug 5, 2019",
+      "league_record": {
+        "goals": 9,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 27,
+        "assists": 6,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Michael Oluwakorede Olakigbe",
+      "name_jer": "Michael Olakigbe",
+      "age": 20,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "2004-04-25",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹4.8 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 1,
+        "appearances": 17,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English Youth League Winner (U18) (19/20 Fulham FC U18)"
+      ]
+    },
+    {
+      "name_home": "Ivan Benjamin Elijah Toney",
+      "name_jer": "Ivan Toney",
+      "age": 28,
+      "nationality": "England",
+      "height": "1.85m",
+      "dob": "1996-03-16",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹400 Cr",
+      "joined": "Aug 31, 2024",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 17,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "2x Top Goal Scorer (20/21 Championship - 31 Goals , 19/20 League One - 24 Goals)",
+        "1x Player Of The Year (19/20 League One)",
+        "1x English 3rd Tier Champion (17/18 Wigan Athletic)",
+        "1x Football League Trophy Winner (15/16 Barnsley FC)"
+      ]
+    },
+    {
+      "name_home": "Yoane Wissa",
+      "name_jer": "Yoane Wissa",
+      "age": 28,
+      "nationality": " DR Congo",
+      "height": "1.76m",
+      "dob": "1996-09-03",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹224 Cr",
+      "joined": "Aug 10, 2021",
+      "league_record": {
+        "goals": 12,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Neal Maupay",
+      "name_jer": "Neal Maupay",
+      "age": 28,
+      "nationality": " France",
+      "height": "1.71m",
+      "dob": "1996-08-14",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹96 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 8,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 34,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66efdb0292595f767378abaf"
+  },
+  "club": "Brighton & Hove Albion",
+  "league": "English Premier League",
+  "players": [
+    {
+      "name_home": "Bart Verbruggen",
+      "name_jer": "Bart Verbruggen",
+      "age": 22,
+      "nationality": "Netherlands",
+      "height": "1.94m",
+      "dob": "2003-08-18",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹144 Cr",
+      "joined": "Jul 3, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 27,
+        "assists": 0,
+        "clean_sheets": 7,
+        "goals_conceded": 33
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jason Sean Steele",
+      "name_jer": "Jason Steele",
+      "age": 34,
+      "nationality": "England",
+      "height": "1.88m",
+      "dob": "1990-08-18",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹28 Cr",
+      "joined": "Jul 1, 2018",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 0,
+        "clean_sheets": 4,
+        "goals_conceded": 44
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Carl Andrew Rushworth",
+      "name_jer": "Carl Rushworth",
+      "age": 23,
+      "nationality": " England",
+      "height": "1.91m",
+      "dob": "2001-07-02",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹24 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 48,
+        "assists": 0,
+        "clean_sheets": 11,
+        "goals_conceded": 68
+      },
+      "achievements": [
+        "1x European Under-21 Champion (2023 England U21)"
+      ]
+    },
+    {
+      "name_home": "Thomas Peter Wayne McGill",
+      "name_jer": "Tom McGill",
+      "age": 24,
+      "nationality": " Canada",
+      "height": "1.85m",
+      "dob": "2000-03-25",
+      "position": "Goalkeeper",
+      "foot": "Right",
+      "market_value": "₹4.8 Cr",
+      "joined": "Jul 24, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 10,
+        "assists": 0,
+        "clean_sheets": 4,
+        "goals_conceded": 16
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Adam Harry Webster",
+      "name_jer": "Adam Webster",
+      "age": 29,
+      "nationality": "England",
+      "height": "1.90m",
+      "dob": "1995-01-04",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹160 Cr",
+      "joined": "Aug 3, 2019",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 19,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jan Paul van Hecke",
+      "name_jer": "Jan Paul van Hecke",
+      "age": 24,
+      "nationality": "Netherlands",
+      "height": "1.89m",
+      "dob": "2000-06-08",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹144 Cr",
+      "joined": "Sep 10, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 9,
+        "red_cards": 0,
+        "appearances": 39,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Igor Julio dos Santos de Paulo",
+      "name_jer": "Igor",
+      "age": 26,
+      "nationality": "Brazil",
+      "height": "1.88m",
+      "dob": "1998-02-07",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹136 Cr",
+      "joined": "Jul 26, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x UEFA Youth League Winner (16/17 Red Bull Salzburg UEFA U19)",
+        "2x Austrian Champion (17/18 Red Bull Salzburg , 16/17 Red Bull Salzburg)",
+        "1x Austrian Cup Winner (16/17 Red Bull Salzburg)"
+      ]
+    },
+    {
+      "name_home": "Lewis Carl Dunk",
+      "name_jer": "Lewis Dunk",
+      "age": 32,
+      "nationality": "England",
+      "height": "1.92m",
+      "dob": "1991-11-21",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹96 Cr",
+      "joined": "Apr 30, 2010",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 8,
+        "red_cards": 1,
+        "appearances": 43,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English 3rd Tier Champion (10/11 Brighton & Hove Albion)"
+      ]
+    },
+    {
+      "name_home": "Edward James Turns",
+      "name_jer": "Ed Turns",
+      "age": 21,
+      "nationality": "Wales",
+      "height": "1.86m",
+      "dob": "2002-10-18",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹3.2 Cr",
+      "joined": "Jan 1, 2021",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 9,
+        "red_cards": 0,
+        "appearances": 31,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English 4th Tier Champion (22/23 Leyton Orient)"
+      ]
+    },
+    {
+      "name_home": "Benjamin Harvey Jackson",
+      "name_jer": "Ben Jackson",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.90m",
+      "dob": "2003-09-03",
+      "position": "Centre-Back",
+      "foot": "Both",
+      "market_value": "₹1.6 Cr",
+      "joined": "Jul 8, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 4,
+        "red_cards": 1,
+        "appearances": 16,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Leigh Robert Kavanagh",
+      "name_jer": "Leigh Kavanagh",
+      "age": 20,
+      "nationality": "Ireland",
+      "height": "1.89m",
+      "dob": "2003-12-27",
+      "position": "Centre-Back",
+      "foot": "Right",
+      "market_value": "₹1.6 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 7,
+        "red_cards": 1,
+        "appearances": 28,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Noël Bigo Atom",
+      "name_jer": "Noel Atom",
+      "age": 19,
+      "nationality": "Germany",
+      "height": "1.83m",
+      "dob": "2005-01-05",
+      "position": "Centre-Back",
+      "foot": "Left",
+      "market_value": "₹2 Cr",
+      "joined": "Aug 11, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 1,
+        "appearances": 13,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Pervis Josué Estupiñán Tenorio",
+      "name_jer": "Pervis Estupiñán",
+      "age": 26,
+      "nationality": "Ecuador",
+      "height": "1.75m",
+      "dob": "1998-01-21",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹240 Cr",
+      "joined": "Aug 16, 2022",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 27,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Europa League Winner (20/21 Villarreal CF)"
+      ]
+    },
+    {
+      "name_home": "Valentín Barco",
+      "name_jer": "Valentín Barco",
+      "age": 20,
+      "nationality": "Argentina",
+      "height": "1.70m",
+      "dob": "2004-07-23",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹104 Cr",
+      "joined": "Aug 23, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 7,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Argentinian Cup Winner (19/20 CA Boca Juniors)",
+        "1x Argentinian Champion (2022 CA Boca Juniors)"
+      ]
+    },
+    {
+      "name_home": "Imari-Narain Che Hines-Samuels",
+      "name_jer": "Imari Samuels",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.87m",
+      "dob": "2003-02-05",
+      "position": "Left-Back",
+      "foot": "Left",
+      "market_value": "₹80 L",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 14,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jack Luca Hinshelwood",
+      "name_jer": "Jack Hinshelwood",
+      "age": 19,
+      "nationality": "England",
+      "height": "1.82m",
+      "dob": "2005-04-11",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹128 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Tariq Kwame Nii-Lante Lamptey",
+      "name_jer": "Tariq Lamptey",
+      "age": 23,
+      "nationality": "Ghana",
+      "height": "1.63m",
+      "dob": "2000-09-30",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹96 Cr",
+      "joined": "Jan 31, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 5,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x English Youth League Winner (U18) (17/18 Chelsea FC U18)"
+      ]
+    },
+    {
+      "name_home": "Joël Ivo Veltman",
+      "name_jer": "Joël Veltman",
+      "age": 32,
+      "nationality": "Netherlands",
+      "height": "1.84m",
+      "dob": "1992-01-15",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Jul 29, 2020",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "3x Dutch Champion (18/19 Ajax Amsterdam , 13/14 Ajax Amsterdam , 12/13 Ajax Amsterdam)",
+        "1x Dutch Cup Winner (18/19 Ajax Amsterdam)",
+        "2x Dutch Super Cup Winner (2020 Ajax Amsterdam , 2014 Ajax Amsterdam)",
+        "1x Dutch U19 Champion (2011 Ajax Amsterdam U19)"
+      ]
+    },
+    {
+      "name_home": "Odeluga Joshua Offiah",
+      "name_jer": "Odeluga Offiah",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.87m",
+      "dob": "2002-10-26",
+      "position": "Right-Back",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 19,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Carlos Noom Quomah Baleba",
+      "name_jer": "Carlos Baleba",
+      "age": 20,
+      "nationality": "Cameroon",
+      "height": "1.79m",
+      "dob": "2004-01-03",
+      "position": "Defensive Midfield",
+      "foot": "Left",
+      "market_value": "₹176 Cr",
+      "joined": "Aug 29, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 39,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Billy Clifford Gilmour",
+      "name_jer": "Billy Gilmour",
+      "age": 23,
+      "nationality": "Scotland",
+      "height": "1.70m",
+      "dob": "2001-06-11",
+      "position": "Defensive Midfield",
+      "foot": "Right",
+      "market_value": "₹144 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 8,
+        "red_cards": 1,
+        "appearances": 41,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Champions League Winner (20/21 Chelsea FC)",
+        "1x English Youth League Winner (U18) (17/18 Chelsea FC U18)"
+      ]
+    },
+    {
+      "name_home": "Jakub Piotr Moder",
+      "name_jer": "Jakub Moder",
+      "age": 25,
+      "nationality": "Poland",
+      "height": "1.91m",
+      "dob": "1999-04-07",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹80 Cr",
+      "joined": "Oct 4, 2020",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 21,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Pascal Groß",
+      "name_jer": "Pascal Groß",
+      "age": 33,
+      "nationality": "Germany",
+      "height": "1.81m",
+      "dob": "1991-06-15",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹64 Cr",
+      "joined": "Aug 1, 2024",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 47,
+        "assists": 13,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x German Second Tier Champion (14/15 FC Ingolstadt 04)",
+        "1x German Under-17 Bundesliga Champion (07/08 TSG 1899 Hoffenheim U17)",
+        "1x German Under-19 Cup Winner (09/10 TSG 1899 Hoffenheim U19)"
+      ]
+    },
+    {
+      "name_home": "محمود داوود",
+      "name_jer": "Mahmoud Dahoud",
+      "age": 28,
+      "nationality": "Syria",
+      "height": "1.78m",
+      "dob": "1996-01-01",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹48 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 1,
+        "red_cards": 1,
+        "appearances": 28,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x German Cup Winner (20/21 Borussia Dortmund)",
+        "1x German Super Cup Winner (19/20 Borussia Dortmund)",
+        "1x European Under-21 Champion (2017 Germany U21)",
+        "1x German Regionalliga West Champion (14/15 Borussia Mönchengladbach II)"
+      ]
+    },
+    {
+      "name_home": "Yasin Abbas Ayari",
+      "name_jer": "Yasin Ayari",
+      "age": 20,
+      "nationality": "Sweden",
+      "height": "1.72m",
+      "dob": "2003-10-06",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹36 Cr",
+      "joined": "Jan 30, 2023",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 27,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Steven Alzate",
+      "name_jer": "Steven Alzate",
+      "age": 26,
+      "nationality": "Colombia",
+      "height": "1.80m",
+      "dob": "1998-09-08",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹32 Cr",
+      "joined": "Sep 9, 2024",
+      "league_record": {
+        "goals": 2,
+        "yellow_cards": 3,
+        "red_cards": 1,
+        "appearances": 25,
+        "assists": 4,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "James Philip Milner",
+      "name_jer": "James Milner",
+      "age": 38,
+      "nationality": "England",
+      "height": "1.75m",
+      "dob": "1986-01-04",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹8 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Champions League Winner (18/19 Liverpool FC)",
+        "1x FIFA Club World Cup Winner (2020 Liverpool FC)",
+        "3x English Champion (19/20 Liverpool FC , 13/14 Manchester City , 11/12 Manchester City)",
+        "1x UEFA Supercup Winner (19/20 Liverpool FC)",
+        "2x English FA Cup Winner (2022 Liverpool FC , 2011 Manchester City)",
+        "2x English Super Cup Winner (22/23 Liverpool FC , 12/13 Manchester City)",
+        "2x English League Cup Winner (2022 Liverpool FC , 2014 Manchester City)"
+      ]
+    },
+    {
+      "name_home": "Marc Henry Leonard",
+      "name_jer": "Marc Leonard",
+      "age": 22,
+      "nationality": "Scotland",
+      "height": "1.80m",
+      "dob": "2001-12-19",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹3.6 Cr",
+      "joined": "Jul 25, 2024",
+      "league_record": {
+        "goals": 5,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 49,
+        "assists": 6,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jensen Guy Weir",
+      "name_jer": "Jensen Weir",
+      "age": 22,
+      "nationality": "England",
+      "height": "1.84m",
+      "dob": "2002-01-31",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹3.6 Cr",
+      "joined": "Aug 29, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 33,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Samy Olivier Chouchane , سامي أوليفييه شوشان",
+      "name_jer": "Samy Chouchane",
+      "age": 21,
+      "nationality": "Tunisia",
+      "height": "1.80m",
+      "dob": "2003-09-05",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹2 Cr",
+      "joined": "Aug 19, 2024",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 24,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Jack Samuel Lawrence Hinchy",
+      "name_jer": "Jack Hinchy",
+      "age": 21,
+      "nationality": "England",
+      "height": "1.74m",
+      "dob": "2003-01-30",
+      "position": "Central Midfield",
+      "foot": "Right",
+      "market_value": "₹1.2 Cr",
+      "joined": "Jul 26, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 7,
+        "red_cards": 0,
+        "appearances": 28,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Julio César Enciso",
+      "name_jer": "Julio Enciso",
+      "age": 20,
+      "nationality": "Paraguay",
+      "height": "1.73m",
+      "dob": "2004-01-23",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹176 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 15,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "2x Paraguayan Champion Apertura (2022 Club Libertad Asunción , 2021 Club Libertad Asunción)"
+      ]
+    },
+    {
+      "name_home": "Facundo Valentín Buonanotte",
+      "name_jer": "Facundo Buonanotte",
+      "age": 19,
+      "nationality": "Argentina",
+      "height": "1.74m",
+      "dob": "2004-12-23",
+      "position": "Attacking Midfield",
+      "foot": "Left",
+      "market_value": "₹144 Cr",
+      "joined": "Aug 10, 2024",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Andrew Moran",
+      "name_jer": "Andrew Moran",
+      "age": 20,
+      "nationality": "Ireland",
+      "height": "1.77m",
+      "dob": "2003-10-15",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹24 Cr",
+      "joined": "Aug 16, 2024",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 44,
+        "assists": 9,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Adam David Lallana",
+      "name_jer": "Adam Lallana",
+      "age": 36,
+      "nationality": "England",
+      "height": "1.72m",
+      "dob": "1988-05-10",
+      "position": "Attacking Midfield",
+      "foot": "Both",
+      "market_value": "₹8 Cr",
+      "joined": "Jul 1, 2024",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 30,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Champions League Winner (18/19 Liverpool FC)",
+        "1x FIFA Club World Cup Winner (2020 Liverpool FC)",
+        "1x English Champion (19/20 Liverpool FC)",
+        "1x UEFA Supercup Winner (19/20 Liverpool FC)",
+        "1x Football League Trophy Winner (09/10 Southampton FC)"
+      ]
+    },
+    {
+      "name_home": "Joshua James Leslie Duffus",
+      "name_jer": "Josh Duffus",
+      "age": 19,
+      "nationality": "England",
+      "height": "1.75m",
+      "dob": "2004-12-15",
+      "position": "Attacking Midfield",
+      "foot": "Both",
+      "market_value": "₹4 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 19,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Cameron Paul Jacques Peupion",
+      "name_jer": "Cameron Peupion",
+      "age": 21,
+      "nationality": "Australia",
+      "height": "1.75m",
+      "dob": "2002-09-23",
+      "position": "Attacking Midfield",
+      "foot": "Right",
+      "market_value": "₹80 L",
+      "joined": "Jul 1, 2021",
+      "league_record": {
+        "goals": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "appearances": 13,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "三笘 薫",
+      "name_jer": "Kaoru Mitoma",
+      "age": 27,
+      "nationality": "Japan",
+      "height": "1.78m",
+      "dob": "1997-05-20",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹360 Cr",
+      "joined": "Aug 10, 2021",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 6,
+        "red_cards": 0,
+        "appearances": 26,
+        "assists": 5,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "2x Footballer Of The Year (2022 Japan , 2020 Japan)",
+        "1x Japanese Champion (2020 Kawasaki Frontale)",
+        "1x Japanese Cup Winner (2020 Kawasaki Frontale)",
+        "1x Japanese Super Cup Winner (2021 Kawasaki Frontale)",
+        "1x Asian Games Silver Medal (2019 Japan U23)"
+      ]
+    },
+    {
+      "name_home": "Anssumane Fati Vieira",
+      "name_jer": "Ansu Fati",
+      "age": 21,
+      "nationality": "Spain",
+      "height": "1.78m",
+      "dob": "2002-10-31",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹200 Cr",
+      "joined": "Sep 23, 2020",
+      "league_record": {
+        "goals": 4,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 30,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Spanish Champion (22/23 FC Barcelona)",
+        "1x Winner UEFA Nations League (2023 Spain)",
+        "1x Spanish Cup Winner (20/21 FC Barcelona)",
+        "1x Spanish Super Cup Winner (22/23 FC Barcelona)"
+      ]
+    },
+    {
+      "name_home": "Jeremy Leonel Sarmiento Morante",
+      "name_jer": "Jeremy Sarmiento",
+      "age": 22,
+      "nationality": "Ecuador",
+      "height": "1.78m",
+      "dob": "2002-06-16",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹56 Cr",
+      "joined": "Aug 30, 2024",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 43,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Benicio Baker-Boaitey",
+      "name_jer": "Benicio Baker-Boaitey",
+      "age": 20,
+      "nationality": "England",
+      "height": "1.73m",
+      "dob": "2004-01-09",
+      "position": "Left Winger",
+      "foot": "Left",
+      "market_value": "₹3.2 Cr",
+      "joined": "Aug 7, 2024",
+      "league_record": {
+        "goals": 1,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 20,
+        "assists": 0,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Luca Barrington",
+      "name_jer": "Luca Barrington",
+      "age": 19,
+      "nationality": "England",
+      "height": "1.78m",
+      "dob": "2004-12-12",
+      "position": "Left Winger",
+      "foot": "Right",
+      "market_value": "₹1.2 Cr",
+      "joined": "Aug 6, 2024",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 7,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x U21 Premier League Champion (21/22 Manchester City U23)",
+        "1x English Youth League Winner (U18) (21/22 Manchester City U18)"
+      ]
+    },
+    {
+      "name_home": "Simon Adingra",
+      "name_jer": "Simon Adingra",
+      "age": 22,
+      "nationality": "Ivory Coast",
+      "height": "1.75m",
+      "dob": "2002-01-01",
+      "position": "Right Winger",
+      "foot": "Right",
+      "market_value": "₹240 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 7,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "appearances": 40,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Africa Cup Winner (2024 Ivory Coast)"
+      ]
+    },
+    {
+      "name_home": "Solomon Benjamin March",
+      "name_jer": "Solly March",
+      "age": 30,
+      "nationality": "England",
+      "height": "1.80m",
+      "dob": "1994-07-20",
+      "position": "Right Winger",
+      "foot": "Left",
+      "market_value": "₹144 Cr",
+      "joined": "Jul 1, 2013",
+      "league_record": {
+        "goals": 3,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 10,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Abdallah Dipo Sima",
+      "name_jer": "Abdallah Sima",
+      "age": 23,
+      "nationality": "Senegal",
+      "height": "1.88m",
+      "dob": "2001-06-17",
+      "position": "Right Winger",
+      "foot": "Right",
+      "market_value": "₹60 Cr",
+      "joined": "Aug 21, 2024",
+      "league_record": {
+        "goals": 16,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 23,
+        "assists": 2,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Scottish League Cup Winner (23/24 Rangers FC)",
+        "1x Czech Champion (20/21 SK Slavia Prague)",
+        "1x Czech Cup Winner (20/21 SK Slavia Prague)"
+      ]
+    },
+    {
+      "name_home": "Evan Ferguson",
+      "name_jer": "Evan Ferguson",
+      "age": 19,
+      "nationality": "Ireland",
+      "height": "1.88m",
+      "dob": "2004-10-19",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹400 Cr",
+      "joined": "Jul 1, 2022",
+      "league_record": {
+        "goals": 6,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "appearances": 36,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "João Pedro Junqueira de Jesus",
+      "name_jer": "João Pedro",
+      "age": 22,
+      "nationality": "Brazil",
+      "height": "1.88m",
+      "dob": "2001-09-26",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹360 Cr",
+      "joined": "Jul 1, 2023",
+      "league_record": {
+        "goals": 20,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "appearances": 40,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    },
+    {
+      "name_home": "Daniel Nii Tackie Mensah Welbeck",
+      "name_jer": "Danny Welbeck",
+      "age": 33,
+      "nationality": "England",
+      "height": "1.85m",
+      "dob": "1990-11-26",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹40 Cr",
+      "joined": "Oct 18, 2020",
+      "league_record": {
+        "goals": 7,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "appearances": 37,
+        "assists": 1,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": [
+        "1x Champions League Winner (07/08 Manchester United)",
+        "1x FIFA Club World Cup Winner (2009 Manchester United)",
+        "2x English Champion (12/13 Manchester United , 08/09 Manchester United)",
+        "2x English FA Cup Winner (2017 Arsenal FC , 2015 Arsenal FC)",
+        "2x English League Cup Winner (2010 Manchester United , 2009 Manchester United)",
+        "3x English Super Cup Winner (17/18 Arsenal FC , 13/14 Manchester United , 11/12 Manchester United)"
+      ]
+    },
+    {
+      "name_home": "Mark O'Mahony",
+      "name_jer": "Mark O'Mahony",
+      "age": 19,
+      "nationality": "Ireland",
+      "height": "1.80m",
+      "dob": "2005-01-14",
+      "position": "Centre-Forward",
+      "foot": "Right",
+      "market_value": "₹2.4 Cr",
+      "joined": "Aug 28, 2024",
+      "league_record": {
+        "goals": 10,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "appearances": 18,
+        "assists": 3,
+        "clean_sheets": 0,
+        "goals_conceded": 0
+      },
+      "achievements": []
+    }
+  ]
+}]
